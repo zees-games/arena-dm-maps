@@ -1,0 +1,13 @@
+{
+ "id": "gg_canyon",
+ "author": "Devi8",
+ "attribution": {
+  "author": "Devi8",
+  "source": "https://gamebanana.com/mods/134054 (submitter Devi8; gg_canyon)",
+  "archive": "gg_canyon.zip",
+  "recorded": "2026-10-27"
+ },
+ "notes": "Deathmatch / gun game map for game-arena; credit only, no zones. GameBanana licence CC BY-NC-ND 4.0 (see nightly cdn-publish gate). Not published.",
+ "kind": "arena",
+ "kind_why": "A deathmatch map: built to fight on rather than to time. 'arena' keeps it out of g2gfast's rotation and marks it for game-arena's deathmatch."
+}

@@ -1,5 +1,102 @@
 {
   "owner": "gamemann",
   "origin": "https://dotgames.org/content",
-  "maps": []
+  "maps": [
+    {
+      "id": "aim_forts",
+      "author": "NoBuxs",
+      "source": "https://gamebanana.com/mods/116937",
+      "bytes": 2505700
+    },
+    {
+      "id": "blackhawkdown",
+      "author": "Cc_NIPPER",
+      "source": "https://gamebanana.com/mods/116994",
+      "bytes": 2570850
+    },
+    {
+      "id": "dm_hot_cn_v1",
+      "author": "seigneurdesombres",
+      "source": "https://gamebanana.com/mods/117417",
+      "bytes": 21296988
+    },
+    {
+      "id": "dm_industrial_gamma",
+      "author": "warhawk3407",
+      "source": "https://gamebanana.com/mods/117427",
+      "bytes": 5189050
+    },
+    {
+      "id": "dm_morpheus",
+      "author": "mr-thermaltake",
+      "source": "https://gamebanana.com/mods/117486",
+      "bytes": 6694802
+    },
+    {
+      "id": "dm_overwatch",
+      "author": "LikeMike213",
+      "source": "https://gamebanana.com/mods/117534",
+      "bytes": 1018756
+    },
+    {
+      "id": "dm_scarletdevilmansion",
+      "author": "Deity Link",
+      "source": "https://gamebanana.com/mods/117571",
+      "bytes": 13446671
+    },
+    {
+      "id": "gg_canyon",
+      "author": "Devi8",
+      "source": "https://gamebanana.com/mods/134054",
+      "bytes": 2017616
+    },
+    {
+      "id": "gg_fy_snow",
+      "author": "s1nk0",
+      "source": "https://gamebanana.com/mods/135022",
+      "bytes": 146336
+    },
+    {
+      "id": "gg_garage",
+      "author": "SGT_kick_ur_ass",
+      "source": "https://gamebanana.com/mods/135049",
+      "bytes": 3028147
+    },
+    {
+      "id": "gg_krusty_krab",
+      "author": "FireWavezZ",
+      "source": "https://gamebanana.com/mods/135508",
+      "bytes": 8264817
+    },
+    {
+      "id": "gg_lego_arena",
+      "author": "Jevan",
+      "source": "https://gamebanana.com/mods/135558",
+      "bytes": 264359
+    },
+    {
+      "id": "gg_punishment",
+      "author": "Karatekaefer",
+      "source": "https://gamebanana.com/mods/136211",
+      "bytes": 3317526
+    },
+    {
+      "id": "gg_simpsons_x",
+      "author": "BasicAir",
+      "source": "https://gamebanana.com/mods/136613",
+      "bytes": 3401493
+    },
+    {
+      "id": "gg_woods",
+      "author": "X-tr3m3r",
+      "source": "https://gamebanana.com/mods/137426",
+      "bytes": 8208375
+    },
+    {
+      "id": "welcometomexicov6",
+      "author": "zaki90",
+      "source": "https://gamebanana.com/mods/117984",
+      "bytes": 9499138
+    }
+  ]
 }
