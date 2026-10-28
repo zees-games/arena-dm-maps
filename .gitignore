@@ -2,3 +2,6 @@
 /dist/
 /mirror/
 __pycache__/
+# Map content (meshes, textures, packs) is not kept in git; it is published through the CDN flow.
+/maps/*
+!/maps/.gitkeep
