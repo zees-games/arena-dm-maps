@@ -31,7 +31,7 @@ All sixteen are GameBanana uploads under the site's default licence, CC BY-NC-ND
 
 ## Naming them on a server
 
-A server offers them when its `cfg/server/content/overrides.yml` names them under `game-arena` (dot-server-deploy's `cfg.example` does, so a new box has them), one line per map in `maps.json`. All sixteen are on the development CDN at 1.0.1; production has only `blackhawkdown` and `welcometomexicov6` so far.
+A server offers them when its `cfg/server/content/overrides.yml` names them under `game-arena` (dot-server-deploy's `cfg.example` does, so a new box has them), one line per map in `maps.json`. All sixteen are on the development CDN at 1.0.1; production has only `blackhawkdown` and `welcometomexicov6`: the production site refuses the other fourteen ids (`HTTP 400 bad_id`, an underscore in the repo segment) until its website-city is deployed with the current `pack-id.ts`, then republish each at 1.0.1 and add the production CDN to the lock's `mirrors`.
 
 The map files are not in git. `content.lock.json` pins each map's pack (kind `store`, `into: maps/<id>`), so `../dot-bootstrap/bootstrap.sh` (or `./fetch-content.sh` here) fills `maps/` and with it game-arena's `maps/imported_dm`.
 
