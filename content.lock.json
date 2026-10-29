@@ -1,0 +1,135 @@
+{
+	"format": 1,
+	"mirrors": [],
+	"origin": "https://dev.dotgames.org/content",
+	"packs": [
+		{
+			"id": "gamemann/aim_forts",
+			"into": "maps/aim_forts",
+			"kind": "store",
+			"manifest_sha256": "0a959888141460df5839682554cba58c0b4978843cd2700d5340d196248522ae",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/blackhawkdown",
+			"into": "maps/blackhawkdown",
+			"kind": "store",
+			"manifest_sha256": "27abfcf12f2646dd283df76005ba30bd34e0f9b763fde17647ae7f69411d9754",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/dm_hot_cn_v1",
+			"into": "maps/dm_hot_cn_v1",
+			"kind": "store",
+			"manifest_sha256": "c3afc932b2dfea9fe42f32c33969be80ad32e21c1bd28d8e444584db37fb664a",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/dm_industrial_gamma",
+			"into": "maps/dm_industrial_gamma",
+			"kind": "store",
+			"manifest_sha256": "1cfe0810133d0b6ae0877bdbf283d8a6800570cc5763febd0390c7ce7410f1b0",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/dm_morpheus",
+			"into": "maps/dm_morpheus",
+			"kind": "store",
+			"manifest_sha256": "ab9b98da6dd986d882b4bee07880e8fa3f0a0d3a4d1d44f7cfc7eb525a816699",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/dm_overwatch",
+			"into": "maps/dm_overwatch",
+			"kind": "store",
+			"manifest_sha256": "5acdc10a21618de63ffde1fb49cc6571f0aaef959c03ab1cb29fffab99e7a630",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/dm_scarletdevilmansion",
+			"into": "maps/dm_scarletdevilmansion",
+			"kind": "store",
+			"manifest_sha256": "971003730fe9a039e2d71a9fca629633448e1b17131a38a04f2ba46714bc80ea",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/gg_canyon",
+			"into": "maps/gg_canyon",
+			"kind": "store",
+			"manifest_sha256": "9370c4775f640c6c8540cae318df42aeea2a5d6850dbabe62945a6bb033fd108",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/gg_fy_snow",
+			"into": "maps/gg_fy_snow",
+			"kind": "store",
+			"manifest_sha256": "581286a87497cfac3d258bf93032114ec20b782a5d0a89be7fd83e4da71a55f7",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/gg_garage",
+			"into": "maps/gg_garage",
+			"kind": "store",
+			"manifest_sha256": "6bfdc966f19cf2473c7b21ece39203f33c7f8d72418d0c777bcf5de04d538849",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/gg_krusty_krab",
+			"into": "maps/gg_krusty_krab",
+			"kind": "store",
+			"manifest_sha256": "05ce1f4d12076be982a85ac9586f68798e53fa59b087e65dbc1928c8afb4ff48",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/gg_lego_arena",
+			"into": "maps/gg_lego_arena",
+			"kind": "store",
+			"manifest_sha256": "b8fcf3c664fbcc9d34e7d6645c7f0ae46d3b58e8976d34d0f02946c13ad12dc7",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/gg_punishment",
+			"into": "maps/gg_punishment",
+			"kind": "store",
+			"manifest_sha256": "67d8ad715c164090423797618b593dd7a83ad74955b706c9e31f0df297984ea5",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/gg_simpsons_x",
+			"into": "maps/gg_simpsons_x",
+			"kind": "store",
+			"manifest_sha256": "c965eff2cb09c84c9e36002dbed485308e51ae06acf4e15e9b35b56dbf5490f5",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/gg_woods",
+			"into": "maps/gg_woods",
+			"kind": "store",
+			"manifest_sha256": "3184aefc0c00bf8391784aecbf38f807ae9ef2f691d979725be8de793c55cdfe",
+			"optional": true,
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/welcometomexicov6",
+			"into": "maps/welcometomexicov6",
+			"kind": "store",
+			"manifest_sha256": "59d6c2ea8e1d729fdb140eb698b2c6ac6ec363f1f6be77476e7fe5dd42f4358e",
+			"optional": true,
+			"version": "1.0.1"
+		}
+	]
+}

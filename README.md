@@ -8,7 +8,7 @@ Each map is its own signed pack, `gamemann/<map id>`, released by tagging this r
 
 ## Credits
 
-All sixteen are GameBanana uploads under the site's default licence, CC BY-NC-ND 4.0, credited here with the author and source page. The CDN publish gate refuses NC and ND, so none of them is published until Christian decides (see nightly `cdn-publish-design-1`).
+All sixteen are GameBanana uploads under the site's default licence, CC BY-NC-ND 4.0, credited here with the author and source page. They are published under the credited-community-map exception (`licence.json`), with this credit, the link and the removal offer.
 
 | Map | Author | Source |
 | --- | --- | --- |
@@ -31,7 +31,9 @@ All sixteen are GameBanana uploads under the site's default licence, CC BY-NC-ND
 
 ## Naming them on a server
 
-A server offers them when its `cfg/game/game-arena/server.yml` names them (dot-server-deploy), one line per map in `maps.json`. All sixteen are published on the production site; the development site has nine so far.
+A server offers them when its `cfg/server/content/overrides.yml` names them under `game-arena` (dot-server-deploy's `cfg.example` does, so a new box has them), one line per map in `maps.json`. All sixteen are on the development CDN at 1.0.1; production has only `blackhawkdown` and `welcometomexicov6` so far.
+
+The map files are not in git. `content.lock.json` pins each map's pack (kind `store`, `into: maps/<id>`), so `../dot-bootstrap/bootstrap.sh` (or `./fetch-content.sh` here) fills `maps/` and with it game-arena's `maps/imported_dm`.
 
 ```yaml
 games:
