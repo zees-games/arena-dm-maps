@@ -4,7 +4,7 @@ Deathmatch and gun game maps [game-arena](https://github.com/zees-games/game-are
 
 Every map here is somebody else's work, imported so it can be played again, and credited in `maps.json`, below and on screen whenever a server changes to it. If you made one of these maps and want it credited differently or taken down, open an issue and it will be done.
 
-Each map is its own signed pack, `gamemann/<map id>`, released by tagging this repository (see `.github/workflows/release.yml`). `maps/` is linked at game-arena's `maps/imported`.
+Each map is its own signed pack, `gamemann/<map id>`, released by tagging this repository (see `.github/workflows/release.yml`). `maps/` is linked at game-arena's `maps/imported_dm` (a `# bootstrap-link:` line in its `.gitignore`), beside the surf maps; `headless_dm_maps` checks them.
 
 ## Credits
 
@@ -28,3 +28,30 @@ All sixteen are GameBanana uploads under the site's default licence, CC BY-NC-ND
 | `gg_simpsons_x` | BasicAir | https://gamebanana.com/mods/136613 |
 | `gg_woods` | X-tr3m3r | https://gamebanana.com/mods/137426 |
 | `welcometomexicov6` | zaki90 | https://gamebanana.com/mods/117984 |
+
+## Naming them on a server
+
+A server offers them when its `cfg/game/game-arena/server.yml` names them (dot-server-deploy), one line per map in `maps.json`. All sixteen are published on the production site; the development site has nine so far.
+
+```yaml
+games:
+  game-arena:
+    maps:
+      add:
+        - gamemann/aim_forts
+        - gamemann/blackhawkdown
+        - gamemann/dm_hot_cn_v1
+        - gamemann/dm_industrial_gamma
+        - gamemann/dm_morpheus
+        - gamemann/dm_overwatch
+        - gamemann/dm_scarletdevilmansion
+        - gamemann/gg_canyon
+        - gamemann/gg_fy_snow
+        - gamemann/gg_garage
+        - gamemann/gg_krusty_krab
+        - gamemann/gg_lego_arena
+        - gamemann/gg_punishment
+        - gamemann/gg_simpsons_x
+        - gamemann/gg_woods
+        - gamemann/welcometomexicov6
+```
