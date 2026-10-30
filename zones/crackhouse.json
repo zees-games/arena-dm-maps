@@ -1,0 +1,14 @@
+{
+ "id": "crackhouse",
+ "author": "unknown",
+ "kind": "arena",
+ "kind_why": "A deathmatch map: built to fight on rather than to time. 'arena' keeps it out of g2gfast's rotation and marks it for game-arena's deathmatch.",
+ "movement": "walk",
+ "attribution": {
+  "author": "unknown (no readme in the archive, none in the bsp; the 2005 original is a community map, not confirmed)",
+  "source": "user-supplied archive cs_crackhouse.zip (cs_crackhouse.bsp, cs_crackhouse.nav); no source page known",
+  "archive": "cs_crackhouse.zip",
+  "recorded": "2026-10-30"
+ },
+ "notes": "Deathmatch map for game-arena. Author unconfirmed, so NOT published until a credit and source page are found."
+}

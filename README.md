@@ -14,6 +14,7 @@ All sixteen are GameBanana uploads under the site's default licence, CC BY-NC-ND
 | --- | --- | --- |
 | `aim-forts` | NoBuxs | https://gamebanana.com/mods/116937 |
 | `blackhawkdown` | Cc_NIPPER | https://gamebanana.com/mods/116994 |
+| `crackhouse` | unknown (no readme in the archive; credit unconfirmed, not published) | user-supplied archive |
 | `dm-hot-cn-v1` | seigneurdesombres | https://gamebanana.com/mods/117417 |
 | `dm-industrial-gamma` | warhawk3407 | https://gamebanana.com/mods/117427 |
 | `dm-morpheus` | mr-thermaltake | https://gamebanana.com/mods/117486 |

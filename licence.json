@@ -23,6 +23,17 @@
   },
   {
     "paths": [
+      "maps/crackhouse"
+    ],
+    "licence": "CC-BY-NC-ND-4.0",
+    "exception": "credited-community-map",
+    "title": "Crackhouse",
+    "author": "unknown",
+    "source_url": "",
+    "removal_contact": "https://github.com/zees-games/arena-dm-maps/issues"
+  },
+  {
+    "paths": [
       "maps/dm-hot-cn-v1"
     ],
     "licence": "CC-BY-NC-ND-4.0",
