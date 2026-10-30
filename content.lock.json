@@ -1,15 +1,15 @@
 {
 	"format": 1,
 	"mirrors": [],
-	"origin": "https://dev.dotgames.org/content",
+	"origin": "https://dotgames.org/content",
 	"packs": [
 		{
-			"id": "gamemann/aim_forts",
-			"into": "maps/aim_forts",
+			"id": "gamemann/aim-forts",
+			"into": "maps/aim-forts",
 			"kind": "store",
-			"manifest_sha256": "0a959888141460df5839682554cba58c0b4978843cd2700d5340d196248522ae",
+			"manifest_sha256": "ebf7a3c35efd919e7a170ef10c8dc7587b7f322cae726a76ece1ca5f25099b65",
 			"optional": true,
-			"version": "1.0.1"
+			"version": "1.0.3"
 		},
 		{
 			"id": "gamemann/blackhawkdown",
@@ -20,108 +20,108 @@
 			"version": "1.0.1"
 		},
 		{
-			"id": "gamemann/dm_hot_cn_v1",
-			"into": "maps/dm_hot_cn_v1",
+			"id": "gamemann/dm-hot-cn-v1",
+			"into": "maps/dm-hot-cn-v1",
 			"kind": "store",
-			"manifest_sha256": "c3afc932b2dfea9fe42f32c33969be80ad32e21c1bd28d8e444584db37fb664a",
+			"manifest_sha256": "8d279fb48e5eb98ecfef23fc81e75a877777609426774682d58a9bee47bca9b1",
 			"optional": true,
-			"version": "1.0.1"
+			"version": "1.0.3"
 		},
 		{
-			"id": "gamemann/dm_industrial_gamma",
-			"into": "maps/dm_industrial_gamma",
+			"id": "gamemann/dm-industrial-gamma",
+			"into": "maps/dm-industrial-gamma",
 			"kind": "store",
-			"manifest_sha256": "1cfe0810133d0b6ae0877bdbf283d8a6800570cc5763febd0390c7ce7410f1b0",
+			"manifest_sha256": "139c789bef83bbe165951dd2671b22db5cd1c4985de4a10fda60b683e98ce29b",
 			"optional": true,
-			"version": "1.0.1"
+			"version": "1.0.3"
 		},
 		{
-			"id": "gamemann/dm_morpheus",
-			"into": "maps/dm_morpheus",
+			"id": "gamemann/dm-morpheus",
+			"into": "maps/dm-morpheus",
 			"kind": "store",
-			"manifest_sha256": "ab9b98da6dd986d882b4bee07880e8fa3f0a0d3a4d1d44f7cfc7eb525a816699",
+			"manifest_sha256": "5268a6842064086c46ff4fbd5d8776a0211923f769654a5f6ce7c26636dde112",
 			"optional": true,
-			"version": "1.0.1"
+			"version": "1.0.3"
 		},
 		{
-			"id": "gamemann/dm_overwatch",
-			"into": "maps/dm_overwatch",
+			"id": "gamemann/dm-overwatch",
+			"into": "maps/dm-overwatch",
 			"kind": "store",
-			"manifest_sha256": "5acdc10a21618de63ffde1fb49cc6571f0aaef959c03ab1cb29fffab99e7a630",
+			"manifest_sha256": "32d1ade716cc66067f5825056d32f993427248ec0046c85fd61bed8cb739c649",
 			"optional": true,
-			"version": "1.0.1"
+			"version": "1.0.3"
 		},
 		{
-			"id": "gamemann/dm_scarletdevilmansion",
-			"into": "maps/dm_scarletdevilmansion",
+			"id": "gamemann/dm-scarletdevilmansion",
+			"into": "maps/dm-scarletdevilmansion",
 			"kind": "store",
-			"manifest_sha256": "971003730fe9a039e2d71a9fca629633448e1b17131a38a04f2ba46714bc80ea",
+			"manifest_sha256": "5567a504814105b03c146663b29761a7cdafad25a46a34aed74f87f4915b7725",
 			"optional": true,
-			"version": "1.0.1"
+			"version": "1.0.3"
 		},
 		{
-			"id": "gamemann/gg_canyon",
-			"into": "maps/gg_canyon",
+			"id": "gamemann/gg-canyon",
+			"into": "maps/gg-canyon",
 			"kind": "store",
-			"manifest_sha256": "9370c4775f640c6c8540cae318df42aeea2a5d6850dbabe62945a6bb033fd108",
+			"manifest_sha256": "09a9f2daae97bbdb22749a664bc2db5d50c992dc0004f6eeb9c49aeb7cdc9231",
 			"optional": true,
-			"version": "1.0.1"
+			"version": "1.0.3"
 		},
 		{
-			"id": "gamemann/gg_fy_snow",
-			"into": "maps/gg_fy_snow",
+			"id": "gamemann/gg-fy-snow",
+			"into": "maps/gg-fy-snow",
 			"kind": "store",
-			"manifest_sha256": "581286a87497cfac3d258bf93032114ec20b782a5d0a89be7fd83e4da71a55f7",
+			"manifest_sha256": "2d7895085c42d7d1c459cf0ee0451db55a9ad5b3f919d74aa98ad44941c9287f",
 			"optional": true,
-			"version": "1.0.1"
+			"version": "1.0.3"
 		},
 		{
-			"id": "gamemann/gg_garage",
-			"into": "maps/gg_garage",
+			"id": "gamemann/gg-garage",
+			"into": "maps/gg-garage",
 			"kind": "store",
-			"manifest_sha256": "6bfdc966f19cf2473c7b21ece39203f33c7f8d72418d0c777bcf5de04d538849",
+			"manifest_sha256": "af34bb3806dbe045fe6daea0b67397a17724c43408ddae7fcf5166d3e8748641",
 			"optional": true,
-			"version": "1.0.1"
+			"version": "1.0.3"
 		},
 		{
-			"id": "gamemann/gg_krusty_krab",
-			"into": "maps/gg_krusty_krab",
+			"id": "gamemann/gg-krusty-krab",
+			"into": "maps/gg-krusty-krab",
 			"kind": "store",
-			"manifest_sha256": "05ce1f4d12076be982a85ac9586f68798e53fa59b087e65dbc1928c8afb4ff48",
+			"manifest_sha256": "fcf4c4512f7879b8062fa4d446c024103e566a6d64fbdae7d7eae19d787fe7c2",
 			"optional": true,
-			"version": "1.0.1"
+			"version": "1.0.3"
 		},
 		{
-			"id": "gamemann/gg_lego_arena",
-			"into": "maps/gg_lego_arena",
+			"id": "gamemann/gg-lego-arena",
+			"into": "maps/gg-lego-arena",
 			"kind": "store",
-			"manifest_sha256": "b8fcf3c664fbcc9d34e7d6645c7f0ae46d3b58e8976d34d0f02946c13ad12dc7",
+			"manifest_sha256": "a20e8c6a00183bbdf7924132a7296eb63111a7445bef301d2089442dd2ceec79",
 			"optional": true,
-			"version": "1.0.1"
+			"version": "1.0.3"
 		},
 		{
-			"id": "gamemann/gg_punishment",
-			"into": "maps/gg_punishment",
+			"id": "gamemann/gg-punishment",
+			"into": "maps/gg-punishment",
 			"kind": "store",
-			"manifest_sha256": "67d8ad715c164090423797618b593dd7a83ad74955b706c9e31f0df297984ea5",
+			"manifest_sha256": "24111108a203b433549f81c41461062c551c26d02044e0bebbf5f1cf250b2a1f",
 			"optional": true,
-			"version": "1.0.1"
+			"version": "1.0.3"
 		},
 		{
-			"id": "gamemann/gg_simpsons_x",
-			"into": "maps/gg_simpsons_x",
+			"id": "gamemann/gg-simpsons-x",
+			"into": "maps/gg-simpsons-x",
 			"kind": "store",
-			"manifest_sha256": "c965eff2cb09c84c9e36002dbed485308e51ae06acf4e15e9b35b56dbf5490f5",
+			"manifest_sha256": "9da6b9a9ea1e820f05787fa013a118cde5f6a6a09ca74930b7000403e0eba887",
 			"optional": true,
-			"version": "1.0.1"
+			"version": "1.0.3"
 		},
 		{
-			"id": "gamemann/gg_woods",
-			"into": "maps/gg_woods",
+			"id": "gamemann/gg-woods",
+			"into": "maps/gg-woods",
 			"kind": "store",
-			"manifest_sha256": "3184aefc0c00bf8391784aecbf38f807ae9ef2f691d979725be8de793c55cdfe",
+			"manifest_sha256": "c868aaeb595232dc075654d2f2457bc0f9006d953c2919bd0185d6dffd2bead8",
 			"optional": true,
-			"version": "1.0.1"
+			"version": "1.0.3"
 		},
 		{
 			"id": "gamemann/welcometomexicov6",

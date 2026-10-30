@@ -12,26 +12,26 @@ All sixteen are GameBanana uploads under the site's default licence, CC BY-NC-ND
 
 | Map | Author | Source |
 | --- | --- | --- |
-| `aim_forts` | NoBuxs | https://gamebanana.com/mods/116937 |
+| `aim-forts` | NoBuxs | https://gamebanana.com/mods/116937 |
 | `blackhawkdown` | Cc_NIPPER | https://gamebanana.com/mods/116994 |
-| `dm_hot_cn_v1` | seigneurdesombres | https://gamebanana.com/mods/117417 |
-| `dm_industrial_gamma` | warhawk3407 | https://gamebanana.com/mods/117427 |
-| `dm_morpheus` | mr-thermaltake | https://gamebanana.com/mods/117486 |
-| `dm_overwatch` | LikeMike213 | https://gamebanana.com/mods/117534 |
-| `dm_scarletdevilmansion` | Deity Link | https://gamebanana.com/mods/117571 |
-| `gg_canyon` | Devi8 | https://gamebanana.com/mods/134054 |
-| `gg_fy_snow` | s1nk0 | https://gamebanana.com/mods/135022 |
-| `gg_garage` | SGT_kick_ur_ass | https://gamebanana.com/mods/135049 |
-| `gg_krusty_krab` | FireWavezZ | https://gamebanana.com/mods/135508 |
-| `gg_lego_arena` | Jevan | https://gamebanana.com/mods/135558 |
-| `gg_punishment` | Karatekaefer | https://gamebanana.com/mods/136211 |
-| `gg_simpsons_x` | BasicAir | https://gamebanana.com/mods/136613 |
-| `gg_woods` | X-tr3m3r | https://gamebanana.com/mods/137426 |
+| `dm-hot-cn-v1` | seigneurdesombres | https://gamebanana.com/mods/117417 |
+| `dm-industrial-gamma` | warhawk3407 | https://gamebanana.com/mods/117427 |
+| `dm-morpheus` | mr-thermaltake | https://gamebanana.com/mods/117486 |
+| `dm-overwatch` | LikeMike213 | https://gamebanana.com/mods/117534 |
+| `dm-scarletdevilmansion` | Deity Link | https://gamebanana.com/mods/117571 |
+| `gg-canyon` | Devi8 | https://gamebanana.com/mods/134054 |
+| `gg-fy-snow` | s1nk0 | https://gamebanana.com/mods/135022 |
+| `gg-garage` | SGT_kick_ur_ass | https://gamebanana.com/mods/135049 |
+| `gg-krusty-krab` | FireWavezZ | https://gamebanana.com/mods/135508 |
+| `gg-lego-arena` | Jevan | https://gamebanana.com/mods/135558 |
+| `gg-punishment` | Karatekaefer | https://gamebanana.com/mods/136211 |
+| `gg-simpsons-x` | BasicAir | https://gamebanana.com/mods/136613 |
+| `gg-woods` | X-tr3m3r | https://gamebanana.com/mods/137426 |
 | `welcometomexicov6` | zaki90 | https://gamebanana.com/mods/117984 |
 
 ## Naming them on a server
 
-A server offers them when its `cfg/server/content/overrides.yml` names them under `game-arena` (dot-server-deploy's `cfg.example` does, so a new box has them), one line per map in `maps.json`. All sixteen are on the development CDN at 1.0.1; production has only `blackhawkdown` and `welcometomexicov6`: the production site refuses the other fourteen ids (`HTTP 400 bad_id`, an underscore in the repo segment) until its website-city is deployed with the current `pack-id.ts`, then republish each at 1.0.1 and add the production CDN to the lock's `mirrors`.
+A server offers them when its `cfg/server/content/overrides.yml` names them under `game-arena` (dot-server-deploy's `cfg.example` does, so a new box has them), one line per map in `maps.json`. All sixteen are on the production CDN (the fourteen hyphenated ids at 1.0.3, `blackhawkdown` and `welcometomexicov6` at 1.0.1). Ids are hyphenated because the production site refuses an underscore in the repo segment.
 
 The map files are not in git. `content.lock.json` pins each map's pack (kind `store`, `into: maps/<id>`), so `../dot-bootstrap/bootstrap.sh` (or `./fetch-content.sh` here) fills `maps/` and with it game-arena's `maps/imported_dm`.
 
@@ -40,20 +40,20 @@ games:
   game-arena:
     maps:
       add:
-        - gamemann/aim_forts
+        - gamemann/aim-forts
         - gamemann/blackhawkdown
-        - gamemann/dm_hot_cn_v1
-        - gamemann/dm_industrial_gamma
-        - gamemann/dm_morpheus
-        - gamemann/dm_overwatch
-        - gamemann/dm_scarletdevilmansion
-        - gamemann/gg_canyon
-        - gamemann/gg_fy_snow
-        - gamemann/gg_garage
-        - gamemann/gg_krusty_krab
-        - gamemann/gg_lego_arena
-        - gamemann/gg_punishment
-        - gamemann/gg_simpsons_x
-        - gamemann/gg_woods
+        - gamemann/dm-hot-cn-v1
+        - gamemann/dm-industrial-gamma
+        - gamemann/dm-morpheus
+        - gamemann/dm-overwatch
+        - gamemann/dm-scarletdevilmansion
+        - gamemann/gg-canyon
+        - gamemann/gg-fy-snow
+        - gamemann/gg-garage
+        - gamemann/gg-krusty-krab
+        - gamemann/gg-lego-arena
+        - gamemann/gg-punishment
+        - gamemann/gg-simpsons-x
+        - gamemann/gg-woods
         - gamemann/welcometomexicov6
 ```
