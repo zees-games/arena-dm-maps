@@ -15,9 +15,17 @@
 			"id": "gamemann/blackhawkdown",
 			"into": "maps/blackhawkdown",
 			"kind": "store",
-			"manifest_sha256": "27abfcf12f2646dd283df76005ba30bd34e0f9b763fde17647ae7f69411d9754",
+			"manifest_sha256": "5fcb1449c975e395e659b807cc6a569631df2cb329f9c1c01914987ed3935126",
 			"optional": true,
 			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/crackhouse",
+			"into": "maps/crackhouse",
+			"kind": "store",
+			"manifest_sha256": "eccf3924399c01a2bdd76acdd1208179919649a1bfd5438fa130fc6f6e988eb3",
+			"optional": true,
+			"version": "1.0.3"
 		},
 		{
 			"id": "gamemann/dm-hot-cn-v1",
@@ -127,7 +135,7 @@
 			"id": "gamemann/welcometomexicov6",
 			"into": "maps/welcometomexicov6",
 			"kind": "store",
-			"manifest_sha256": "59d6c2ea8e1d729fdb140eb698b2c6ac6ec363f1f6be77476e7fe5dd42f4358e",
+			"manifest_sha256": "4aaf34f6f09d244ccca71e0249e94d71ef9ca332acfd2a7506f1cfd72ceb2134",
 			"optional": true,
 			"version": "1.0.1"
 		}
