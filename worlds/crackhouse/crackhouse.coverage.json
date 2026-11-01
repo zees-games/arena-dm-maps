@@ -1,0 +1,80 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "cs_crackhouse",
+ "sha256": "a8af5cafdc7e8d64f024356b45e84793836638f4be4056a48fba15ec24d6d6d3",
+ "textures": {
+  "looked_up": 31,
+  "drawn": 30,
+  "by_tier": {
+   "addon": 23,
+   "default": 7,
+   "fallback": 1
+  },
+  "free_by_tier": {
+   "addon": 26,
+   "default": 1,
+   "nearest": 3
+  },
+  "nearest_photo": [
+   "building_template/building_template022c",
+   "building_template/courtyard_template005c",
+   "de_dust/crate_128x128",
+   "metal/metalwall061h",
+   "models/props/cs_office/table_meeting",
+   "nature/gravelfloor002a_lowfriction"
+  ]
+ },
+ "models": {
+  "looked_up": 32,
+  "by_tier": {
+   "default": 31,
+   "fallback": 1
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 15,
+  "entities": 331,
+  "by_tier": {
+   "default": 15
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 0,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [
+   "MODELS/PROPS/CS_OFFICE/TABLE_MEETING"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [
+   "props/de_prodigy/platform.mdl"
+  ],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 1,
+  "textures_flat": 0,
+  "models_unmapped": 1,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0
+ }
+}

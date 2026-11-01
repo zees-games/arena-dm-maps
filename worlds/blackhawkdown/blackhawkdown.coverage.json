@@ -1,0 +1,134 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "blackhawkdown",
+ "sha256": "3f8d841944858d22199458f4fac257ef4c696f866c70e40fc0f83b01da8d369f",
+ "textures": {
+  "looked_up": 81,
+  "drawn": 81,
+  "by_tier": {
+   "addon": 43,
+   "default": 33,
+   "fallback": 5
+  },
+  "free_by_tier": {
+   "addon": 70,
+   "default": 2,
+   "nearest": 9
+  },
+  "nearest_photo": [
+   "brick/brickwall014a",
+   "brick/brickwall022a",
+   "brick/brickwall040b",
+   "brick/brickwall040c",
+   "brick/infdrd",
+   "brick/infwllb",
+   "brick/infwlle",
+   "brick/infwndwb_off",
+   "building_template/building_template012d",
+   "building_template/building_template012f",
+   "building_template/building_template012i",
+   "building_template/building_template012j",
+   "building_template/building_template012k",
+   "building_template/building_template012l",
+   "building_template/building_template020c",
+   "building_template/building_template020g",
+   "building_template/building_template021h",
+   "building_template/courtyard_template005c",
+   "building_template/courtyard_template006b",
+   "composite/buildingset041a",
+   "concrete/concretewall042b",
+   "cs_havana/bldc",
+   "cs_havana/blde",
+   "cs_havana/bldf",
+   "cs_havana/building010",
+   "cs_havana/building06",
+   "cs_havana/building09",
+   "cs_italy/cxcrptb",
+   "cs_italy/tileroof01trim",
+   "de_chateau/brickfbrkn01",
+   "de_chateau/cnstrcttarpb",
+   "de_dust/tilefloor01",
+   "nature/blendproddirtgrass",
+   "plaster/plasterwall045d",
+   "wood/infceilinga"
+  ]
+ },
+ "models": {
+  "looked_up": 69,
+  "by_tier": {
+   "default": 65,
+   "skybox": 4
+  }
+ },
+ "sounds": {
+  "looked_up": 5,
+  "by_tier": {
+   "default": 4,
+   "fallback": 1
+  }
+ },
+ "classes": {
+  "distinct": 29,
+  "entities": 430,
+  "by_tier": {
+   "default": 29
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "ambient_generic": [
+    "pitch"
+   ],
+   "func_tracktrain": [
+    "sounds",
+    "style",
+    "zhlt_lightflags"
+   ],
+   "worldspawn": [
+    "MaxRange"
+   ]
+  }
+ },
+ "links": {
+  "total": 2,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [
+   "CS_HAVANA/BLDC",
+   "CS_HAVANA/BLDE",
+   "CS_HAVANA/BLDF",
+   "CS_ITALY/CXCRPTB",
+   "DE_CHATEAU/CNSTRCTTARPB"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [
+   "vehicles/chopper_rotor2.wav"
+  ],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "ambient_generic.pitch",
+   "func_tracktrain.sounds",
+   "func_tracktrain.style",
+   "func_tracktrain.zhlt_lightflags",
+   "worldspawn.MaxRange"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 5,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 1,
+  "classes_unmapped": 0,
+  "keys_unmapped": 5,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0
+ }
+}
