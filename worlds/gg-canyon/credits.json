@@ -1,0 +1,179 @@
+{
+ "map": {
+  "author": "Devi8",
+  "page": "https://gamebanana.com/mods/134054",
+  "licence": "none stated"
+ },
+ "works": [
+  {
+   "kind": "texture",
+   "name": "pbr_rock_ground_02",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/rock_ground_02",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 28
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_forrest_sand_01",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/forrest_sand_01",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 28
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_rock_08",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/rock_08",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 46
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Wood051",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Wood051",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 13
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_SheetMetal003",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=SheetMetal003",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 4
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_MetalPlates012",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=MetalPlates012",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 4
+  },
+  {
+   "kind": "model",
+   "name": "lib/kenney_nature-kit_cliff_topDiagonal_rock",
+   "author": "Kenney",
+   "licence": "CC0-1.0",
+   "url": "https://kenney.nl/assets/nature-kit",
+   "source": "Kenney Nature Kit",
+   "attribution": false,
+   "uses": 26
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_ladder_sectioned_01",
+   "author": "MP",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/ladder_sectioned_01",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 7
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_namaqualand_boulder_03",
+   "author": "Jenelle van Heerden, Dario Barresi",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/namaqualand_boulder_03",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 7
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_namaqualand_boulder_04",
+   "author": "Jenelle van Heerden",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/namaqualand_boulder_04",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 5
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_namaqualand_boulder_05",
+   "author": "Jenelle van Heerden, Dario Barresi",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/namaqualand_boulder_05",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 5
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_shrub_02",
+   "author": "Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/shrub_02",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_free_pothos_potted_plant_money_plant_e9832f",
+   "author": "AllQuad",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-e9832f38484f4f85b3f9081b51fa3799",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 11
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_leaf_tree_ps1_low_poly_d799c0",
+   "author": "Wersaus33",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-d799c08100974e1ba352fcd646cb0694",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_pine_tree_ps1_low_poly_d71cee",
+   "author": "Wersaus33",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-d71ceeb303644e649d09fe8038aa5e47",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 1
+  },
+  {
+   "kind": "sound",
+   "name": "amb_wind",
+   "author": "TMC (dot-audio authors)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-audio",
+   "source": "dot-audio stock ambience (synthesised)",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "sound",
+   "name": "water_run",
+   "author": "Kenney",
+   "licence": "CC0-1.0",
+   "url": "https://kenney.nl/assets/foley-sounds",
+   "source": "Kenney Foley Sounds",
+   "attribution": false,
+   "uses": 2
+  }
+ ]
+}

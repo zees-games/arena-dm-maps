@@ -1,0 +1,115 @@
+# Texture credits
+
+Every texture of this map is a free replacement; the original map's textures and models are not used.
+
+- generated (water): dot-map cutout_texture, TMC (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
+- pbr (pbr_rock_ground_02): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/rock_ground_02
+- pbr (pbr_Grass001): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Grass001
+- pbr (pbr_worn_plaster_wall): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/worn_plaster_wall
+- pbr (pbr_Clay003): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Clay003
+- pbr (pbr_grey_plaster_03): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/grey_plaster_03
+- pbr (pbr_dirty_carpet): polyhaven, Rohit Seervi, CC0-1.0, https://polyhaven.com/a/dirty_carpet
+- pbr (pbr_Wood015): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood015
+- pbr (pbr_Ground091): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Ground091
+- pbr (pbr_teak_veneer): polyhaven, Jenelle van Heerden, CC0-1.0, https://polyhaven.com/a/teak_veneer
+- pbr (pbr_Wood035): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood035
+- pbr (pbr_plaster_stone_wall_01): polyhaven, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/plaster_stone_wall_01
+- pbr (pbr_metal_plate_02): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/metal_plate_02
+- pbr (pbr_Gravel021): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Gravel021
+- pbr (pbr_Ground002): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Ground002
+- pbr (pbr_Ground014): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Ground014
+- pbr (pbr_wood_inlaid_concrete_wall): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/wood_inlaid_concrete_wall
+- pbr (pbr_plaster_brick_pattern): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/plaster_brick_pattern
+- pbr (pbr_Metal046B): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal046B
+- pbr (pbr_Wood053): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood053
+- pbr (pbr_Wood016): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood016
+- pbr (pbr_synthetic_wood): polyhaven, Dario Barresi, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/synthetic_wood
+- pbr (pbr_slate_floor): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/slate_floor
+- pbr (pbr_dirty_tiles): polyhaven, Matterfield, Jenelle van Heerden, CC0-1.0, https://polyhaven.com/a/dirty_tiles
+- generated (glass): dot-map cutout_texture, TMC (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
+- pbr (pbr_Plaster007): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Plaster007
+- pbr (pbr_Wallpaper001A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wallpaper001A
+- pbr (pbr_Concrete011): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Concrete011
+- pbr (pbr_mossy_brick_floor): polyhaven, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/mossy_brick_floor
+- pbr (pbr_rock_04): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/rock_04
+- pbr (pbr_Ground094A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Ground094A
+- pbr (pbr_Tiles106): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles106
+- pbr (pbr_wood_trunk_wall): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/wood_trunk_wall
+- pbr (pbr_Concrete046): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Concrete046
+- pbr (pbr_stone_tile_wall): polyhaven, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/stone_tile_wall
+- pbr (pbr_Terrazzo018): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Terrazzo018
+- pbr (pbr_Wood062): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood062
+- pbr (pbr_Metal024): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal024
+- pbr (pbr_broken_brick_wall): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/broken_brick_wall
+- pbr (pbr_Rock041): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Rock041
+- pbr (pbr_Wood049): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood049
+- pbr (pbr_wall_bricks_plaster): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/wall_bricks_plaster
+- pbr (pbr_DiamondPlate008D): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=DiamondPlate008D
+- pbr (pbr_castle_brick_02_white): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/castle_brick_02_white
+- pbr (pbr_Bricks030): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Bricks030
+- pbr (pbr_pavement_02): polyhaven, Dario Barresi, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/pavement_02
+- pbr (pbr_WoodFloor015): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=WoodFloor015
+- pbr (pbr_sandy_gravel): polyhaven, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/sandy_gravel
+- pbr (pbr_WoodFloor023): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=WoodFloor023
+- pbr (pbr_Wood081): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood081
+- pbr (pbr_Terrazzo019L): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Terrazzo019L
+- pbr (pbr_ScatteredLeaves007): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=ScatteredLeaves007
+- pbr (pbr_grey_stone_path): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/grey_stone_path
+- pbr (pbr_Grass003): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Grass003
+- pbr (pbr_marble_rock_02): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/marble_rock_02
+- pbr (pbr_MetalWalkway002): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=MetalWalkway002
+- pbr (pbr_Metal063): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal063
+- pbr (pbr_RoofingTiles014C): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=RoofingTiles014C
+- pbr (pbr_MetalPlates017A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=MetalPlates017A
+- pbr (pbr_Metal042A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal042A
+- pbr (pbr_Rock060): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Rock060
+- pbr (pbr_PaintedPlaster006): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedPlaster006
+- pbr (pbr_box_profile_metal_sheet): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/box_profile_metal_sheet
+- pbr (pbr_Wood010): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood010
+- pbr (pbr_Tiles129A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles129A
+- pbr (pbr_Metal021): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal021
+- pbr (pbr_wood_table_001): polyhaven, Dimitrios Savva, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/wood_table_001
+- pbr (pbr_flower_scattered_asphalt): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/flower_scattered_asphalt
+- pbr (pbr_Wood008): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood008
+- pbr (pbr_WoodFloor013): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=WoodFloor013
+- pbr (pbr_WoodFloor026): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=WoodFloor026
+- pbr (pbr_Grate002): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Grate002
+- pbr (pbr_chipped_concrete): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/chipped_concrete
+- pbr (pbr_Travertine004): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Travertine004
+- pbr (pbr_Granite005A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Granite005A
+- pbr (pbr_concrete_wall_003): polyhaven, Dimitrios Savva, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/concrete_wall_003
+
+# Model stand-ins
+
+- barrel: Kenney Survival Kit, Kenney, CC0-1.0, https://kenney.nl/assets/survival-kit
+- bookcase: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- cabinet: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- ceiling_light: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- chair: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- crate: Kenney Survival Kit, Kenney, CC0-1.0, https://kenney.nl/assets/survival-kit
+- factory/door: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
+- lamp: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- lib/ph_cardboard_box_01: Poly Haven, Rahul Chaudhary, CC0-1.0, https://polyhaven.com/a/cardboard_box_01
+- lib/ph_namaqualand_boulder_04: Poly Haven, Jenelle van Heerden, CC0-1.0, https://polyhaven.com/a/namaqualand_boulder_04
+- lib/ph_namaqualand_cliff_01: Poly Haven, Jenelle van Heerden, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/namaqualand_cliff_01
+- lib/ph_rock_face_01: Poly Haven, Dario Barresi, CC0-1.0, https://polyhaven.com/a/rock_face_01
+- lib/sf_coconut_tree_d14194: Sketchfab, sujirour, CC-BY-4.0, https://sketchfab.com/3d-models/none-d141941578044b0f861ca83b36d4c411
+- lib/sf_door_wood_afed97: Sketchfab, DiggenDigga, CC-BY-4.0, https://sketchfab.com/3d-models/none-afed9756ba974d1395a336124ff326fd
+- lib/sf_leaf_tree_ps1_low_poly_d799c0: Sketchfab, Wersaus33, CC-BY-4.0, https://sketchfab.com/3d-models/none-d799c08100974e1ba352fcd646cb0694
+- lib/sf_oak_tree_6468dd: Sketchfab, evolveduk, CC-BY-4.0, https://sketchfab.com/3d-models/none-6468dd4d3eb240ef902b9057d9913606
+- lib/sf_oil_drum_61b602: Sketchfab, kubassa, CC-BY-4.0, https://sketchfab.com/3d-models/none-61b602b7e959408f9c6c5bf6392bc4b7
+- lib/sf_pine_tree_d45218: Sketchfab, evolveduk, CC-BY-4.0, https://sketchfab.com/3d-models/none-d45218a3fab349e5b1de040f29e7b6f9
+- log: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+- pirate/boat: Kenney Pirate Kit, Kenney, CC0-1.0, https://kenney.nl/assets/pirate-kit
+- prototype/ladder: Kenney Prototype Kit, Kenney, CC0-1.0, https://kenney.nl/assets/prototype-kit
+- rock: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+- signpost: Kenney Survival Kit, Kenney, CC0-1.0, https://kenney.nl/assets/survival-kit
+- sofa: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- table: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- tree: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+
+# Sound stand-ins
+
+- drip: Kenney Foley Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/foley-sounds
+- machine_low: Kenney Sci-Fi Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/sci-fi-sounds
+- water_run: Kenney Foley Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/foley-sounds

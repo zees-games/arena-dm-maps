@@ -1,0 +1,89 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "gg-punishment",
+ "sha256": "918827425e22782320abb3c23b8a6eb04101936b2170479198940f142002aea6",
+ "textures": {
+  "looked_up": 7,
+  "drawn": 7,
+  "by_tier": {
+   "addon": 2,
+   "default": 3,
+   "fallback": 2
+  },
+  "free_by_tier": {
+   "addon": 6,
+   "default": 1
+  },
+  "nearest_photo": [
+   "customs/schwarz_1",
+   "customs/texweiss_1",
+   "dev/reflectivity_10b",
+   "dev/reflectivity_20b"
+  ]
+ },
+ "models": {
+  "looked_up": 1,
+  "by_tier": {
+   "default": 1
+  }
+ },
+ "sounds": {
+  "looked_up": 4,
+  "by_tier": {
+   "default": 4
+  }
+ },
+ "classes": {
+  "distinct": 17,
+  "entities": 260,
+  "by_tier": {
+   "default": 17
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "ambient_generic": [
+    "pitch"
+   ],
+   "point_viewcontrol": [
+    "acceleration",
+    "deceleration"
+   ]
+  }
+ },
+ "links": {
+  "total": 3,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [
+   "CUSTOMS/SCHWARZ_1",
+   "CUSTOMS/TEXWEISS_1"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "ambient_generic.pitch",
+   "point_viewcontrol.acceleration",
+   "point_viewcontrol.deceleration"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 2,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 3,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0
+ }
+}

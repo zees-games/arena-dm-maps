@@ -1,0 +1,93 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "gg-lego-arena",
+ "sha256": "8a0581ee2f71ac0bc136d1d6df62a74570858f17da5cd8582b9e7671b0a391c7",
+ "textures": {
+  "looked_up": 14,
+  "drawn": 14,
+  "by_tier": {
+   "fallback": 14
+  },
+  "free_by_tier": {
+   "addon": 10,
+   "nearest": 4
+  },
+  "nearest_photo": [
+   "customs/kk",
+   "customs/mck",
+   "my_lego/black_wall3d",
+   "my_lego/blue",
+   "my_lego/blue_block",
+   "my_lego/blue_wall3d",
+   "my_lego/orange",
+   "my_lego/orange_block",
+   "my_lego1/orange_wall3d",
+   "my_lego1/red",
+   "my_lego1/red_block",
+   "my_lego1/red_wall3d",
+   "my_lego1/white",
+   "my_lego1/white_wall3d"
+  ]
+ },
+ "models": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 5,
+  "entities": 36,
+  "by_tier": {
+   "default": 5
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 0,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [
+   "CUSTOMS/KK",
+   "CUSTOMS/MCK",
+   "MY_LEGO/BLACK_WALL3D",
+   "MY_LEGO/BLUE",
+   "MY_LEGO/BLUE_BLOCK",
+   "MY_LEGO/BLUE_WALL3D",
+   "MY_LEGO/ORANGE",
+   "MY_LEGO/ORANGE_BLOCK",
+   "MY_LEGO1/ORANGE_WALL3D",
+   "MY_LEGO1/RED",
+   "MY_LEGO1/RED_BLOCK",
+   "MY_LEGO1/RED_WALL3D",
+   "MY_LEGO1/WHITE",
+   "MY_LEGO1/WHITE_WALL3D"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 14,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "gg-krusty-krab",
+ "sha256": "b8f689ce93a62be6b1837bd47e101e62720ad985dd8da71844009a6f52af25bc",
+ "textures": {
+  "looked_up": 29,
+  "drawn": 29,
+  "by_tier": {
+   "addon": 25,
+   "default": 4
+  },
+  "free_by_tier": {
+   "addon": 26,
+   "default": 3
+  },
+  "nearest_photo": [
+   "silkroad/ground/esteu_twilight_grass_06",
+   "spongebob/krusty_krab/box_patties"
+  ]
+ },
+ "models": {
+  "looked_up": 38,
+  "by_tier": {
+   "default": 38
+  }
+ },
+ "sounds": {
+  "looked_up": 1,
+  "by_tier": {
+   "default": 1
+  }
+ },
+ "classes": {
+  "distinct": 20,
+  "entities": 181,
+  "by_tier": {
+   "default": 20
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "ambient_generic": [
+    "pitch"
+   ]
+  }
+ },
+ "links": {
+  "total": 4,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "ambient_generic.pitch"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 1,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0
+ }
+}

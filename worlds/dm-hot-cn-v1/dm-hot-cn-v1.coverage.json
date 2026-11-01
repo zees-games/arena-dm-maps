@@ -1,0 +1,222 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "dm-hot-cn-v1",
+ "sha256": "37a26fbd95a21f10de326d76c7b2f61fba2624df3c260c399ecc0137735b4cce",
+ "textures": {
+  "looked_up": 94,
+  "drawn": 93,
+  "by_tier": {
+   "addon": 8,
+   "default": 21,
+   "fallback": 65
+  },
+  "free_by_tier": {
+   "addon": 52,
+   "default": 16,
+   "nearest": 23
+  },
+  "nearest_photo": [
+   "complex/dys_trim3",
+   "complex/dys_vactrim1",
+   "complex/dys_vactrim2",
+   "complex/dys_vactrim2light",
+   "complex/dys_vactrim5light",
+   "effects/bluelaser1",
+   "mustafar/a_cavfgirder2_d04",
+   "mustafar/a_conpanel1blk_d",
+   "mustafar/a_conpanel2blk_01",
+   "mustafar/a_sfloor_b02_fin",
+   "mustafar/acpipe3",
+   "mustafar/airdoor_enpro",
+   "mustafar/asbase3",
+   "mustafar/asbase5",
+   "mustafar/asdoor11",
+   "mustafar/asdoor4",
+   "mustafar/boilertop",
+   "mustafar/coldstairs",
+   "mustafar/concretetest_s",
+   "mustafar/cpubossdoor_s",
+   "mustafar/cpupanels1b",
+   "mustafar/ctile_05_unlit",
+   "mustafar/d3elight2",
+   "mustafar/d3g3pillar01",
+   "mustafar/d3romdoor3",
+   "mustafar/d3rometrim7",
+   "mustafar/d3romewall3bump",
+   "mustafar/deldoorgutter2_enpro",
+   "mustafar/deldoorgutter2_enpro_s",
+   "mustafar/enwall13a",
+   "mustafar/enwall1a",
+   "mustafar/enwall3a",
+   "mustafar/ewall2",
+   "mustafar/ghopanel1",
+   "mustafar/ghotile3",
+   "mustafar/gotbwall5",
+   "mustafar/greenrocksbump",
+   "mustafar/hall_striplight01l",
+   "mustafar/k7_efloor3",
+   "mustafar/k7_esupport1",
+   "mustafar/k7_ewall2b",
+   "mustafar/lava8",
+   "mustafar/lavaflowsf001",
+   "mustafar/lflift",
+   "mustafar/lfwall15a",
+   "mustafar/mchangar12",
+   "mustafar/met_trim5",
+   "mustafar/metal2",
+   "mustafar/metal3",
+   "mustafar/metal5",
+   "mustafar/outbuildings6",
+   "mustafar/pmtesframe1",
+   "mustafar/reactorfloor2",
+   "mustafar/reactorfloor2b",
+   "mustafar/reactortrim3",
+   "mustafar/reactorwalk1a_s",
+   "mustafar/rockwall021c",
+   "mustafar/romarmor1",
+   "mustafar/romwall14",
+   "mustafar/romwall3bump",
+   "mustafar/rouge",
+   "mustafar/skpanel8",
+   "mustafar/steribpanel1",
+   "mustafar/steribpanel6",
+   "mustafar/vert",
+   "mustafar/yelhaz2dif"
+  ]
+ },
+ "models": {
+  "looked_up": 30,
+  "by_tier": {
+   "category": 1,
+   "default": 28,
+   "fallback": 1
+  }
+ },
+ "sounds": {
+  "looked_up": 2,
+  "by_tier": {
+   "default": 2
+  }
+ },
+ "classes": {
+  "distinct": 25,
+  "entities": 1292,
+  "by_tier": {
+   "default": 25
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "ambient_generic": [
+    "pitch"
+   ],
+   "env_embers": [
+    "ParticleDrawWidth",
+    "ParticleSpacingDistance"
+   ]
+  }
+ },
+ "links": {
+  "total": 10,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [
+   "COMPLEX/DYS_TRIM3",
+   "COMPLEX/DYS_VACTRIM1",
+   "COMPLEX/DYS_VACTRIM2",
+   "COMPLEX/DYS_VACTRIM2LIGHT",
+   "COMPLEX/DYS_VACTRIM5LIGHT",
+   "MUSTAFAR/ACPIPE3",
+   "MUSTAFAR/ASBASE3",
+   "MUSTAFAR/ASBASE5",
+   "MUSTAFAR/ATLANTIS",
+   "MUSTAFAR/A_CAVFGIRDER2_D04",
+   "MUSTAFAR/A_CONPANEL1BLK_D",
+   "MUSTAFAR/A_CONPANEL2BLK_01",
+   "MUSTAFAR/A_SFLOOR_B02_FIN",
+   "MUSTAFAR/BLACKBARREL",
+   "MUSTAFAR/BLUELASER",
+   "MUSTAFAR/BOILERTOP",
+   "MUSTAFAR/COLDSTAIRS",
+   "MUSTAFAR/COLONY",
+   "MUSTAFAR/CPUPANELS1B",
+   "MUSTAFAR/CUSTOMNIGHTMARE2",
+   "MUSTAFAR/D3ELIGHT2",
+   "MUSTAFAR/D3G3PILLAR01",
+   "MUSTAFAR/D3ROMETRIM7",
+   "MUSTAFAR/D3ROMEWALL3BUMP",
+   "MUSTAFAR/DAY",
+   "MUSTAFAR/ENCOMPASS",
+   "MUSTAFAR/ENWALL13A",
+   "MUSTAFAR/ENWALL1A",
+   "MUSTAFAR/ENWALL3A",
+   "MUSTAFAR/EWALL2",
+   "MUSTAFAR/EXTCABLE_D",
+   "MUSTAFAR/GHOPANEL1",
+   "MUSTAFAR/GOTBWALL5",
+   "MUSTAFAR/HALL_STRIPLIGHT01L",
+   "MUSTAFAR/INFERNUM",
+   "MUSTAFAR/K7_EFLOOR3",
+   "MUSTAFAR/K7_ESUPPORT1",
+   "MUSTAFAR/K7_EWALL2B",
+   "MUSTAFAR/LAVA8",
+   "MUSTAFAR/LAVAFLOWSF001",
+   "MUSTAFAR/LFLIFT",
+   "MUSTAFAR/LFWALL15A",
+   "MUSTAFAR/MCHANGAR12",
+   "MUSTAFAR/MET_TRIM5",
+   "MUSTAFAR/MUSTAFAR",
+   "MUSTAFAR/OUTBUILDINGS6",
+   "MUSTAFAR/PICON",
+   "MUSTAFAR/PMTESFRAME1",
+   "MUSTAFAR/REACTORFLOOR2",
+   "MUSTAFAR/REACTORFLOOR2B",
+   "MUSTAFAR/REACTORTRIM3",
+   "MUSTAFAR/REACTORWALK1A_S",
+   "MUSTAFAR/ROMARMOR1",
+   "MUSTAFAR/ROMWALL14",
+   "MUSTAFAR/ROMWALL3BUMP",
+   "MUSTAFAR/ROUGE",
+   "MUSTAFAR/SCIFISCREEN001",
+   "MUSTAFAR/SCIFISCREEN002",
+   "MUSTAFAR/SC_LOGO",
+   "MUSTAFAR/SKPANEL8",
+   "MUSTAFAR/STERIBPANEL1",
+   "MUSTAFAR/STERIBPANEL6",
+   "MUSTAFAR/VERT",
+   "MUSTAFAR/YELHAZ2DIF",
+   "TUNNEL/CN3"
+  ],
+  "textures_flat": [
+   "mustafar/blackbarrel",
+   "mustafar/extcable_d"
+  ],
+  "models_unmapped": [
+   "props_combine/combinebuttress.mdl"
+  ],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "ambient_generic.pitch",
+   "env_embers.ParticleDrawWidth",
+   "env_embers.ParticleSpacingDistance"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 65,
+  "textures_flat": 2,
+  "models_unmapped": 1,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 3,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "gg-fy-snow",
+ "sha256": "2a616412ee1c584f3848d07146ac7f26994a47657f80f6d8046c8ecdbf38ebdc",
+ "textures": {
+  "looked_up": 4,
+  "drawn": 3,
+  "by_tier": {
+   "addon": 1,
+   "default": 2,
+   "fallback": 1
+  },
+  "free_by_tier": {
+   "addon": 3
+  },
+  "nearest_photo": [
+   "cs_italy/boxsides_t01",
+   "ground/blendsnow_asphault"
+  ]
+ },
+ "models": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 6,
+  "entities": 55,
+  "by_tier": {
+   "default": 6
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 0,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [
+   "BESTBUY/APPLIANCESIGN"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 1,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0
+ }
+}

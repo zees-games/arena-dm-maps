@@ -1,0 +1,73 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "gg-garage",
+ "sha256": "a8f6bad467ad601f623d404096247ca0536cea342446deaa930b68623fab5186",
+ "textures": {
+  "looked_up": 15,
+  "drawn": 15,
+  "by_tier": {
+   "addon": 8,
+   "default": 7
+  },
+  "free_by_tier": {
+   "addon": 14,
+   "nearest": 1
+  },
+  "nearest_photo": [
+   "brick/offwlld",
+   "concrete/curba",
+   "concrete/curbreda",
+   "concrete/offceilinga",
+   "concrete/offceilingb",
+   "metal/stairsatp"
+  ]
+ },
+ "models": {
+  "looked_up": 40,
+  "by_tier": {
+   "default": 40
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 11,
+  "entities": 437,
+  "by_tier": {
+   "default": 11
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 0,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0
+ }
+}

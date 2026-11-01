@@ -1,0 +1,5 @@
+# Suggested by the converter from commands in dm-scarletdevilmansion's entities.
+# Nothing here is applied. Uncomment a line to set it for this map; a key the game does
+# not whitelist is logged and ignored (docs/map-config.md).
+# skipped, never run: point_clientcommand: sv_cheats 1
+# skipped, never run: point_clientcommand: ent_create headless_hatman

@@ -1,0 +1,145 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "welcometomexicov6",
+ "sha256": "2e1ecd2f73386818062e4edc173a08988cf7192fd119af063a13db1dece7421b",
+ "textures": {
+  "looked_up": 128,
+  "drawn": 129,
+  "by_tier": {
+   "addon": 78,
+   "default": 47,
+   "fallback": 3
+  },
+  "free_by_tier": {
+   "addon": 101,
+   "default": 12,
+   "nearest": 16
+  },
+  "nearest_photo": [
+   "brick/brickwall003d",
+   "brick/brickwall019a",
+   "brick/brickwall031d",
+   "brick/brickwall038c",
+   "brick/brickwall048a",
+   "building_template/building_template001a",
+   "building_template/building_template001i",
+   "building_template/building_template005a",
+   "building_template/building_template005c",
+   "building_template/building_template005d",
+   "building_template/building_template005e",
+   "building_template/building_template005g",
+   "building_template/building_template012i",
+   "building_template/building_template017e",
+   "building_template/building_template017n",
+   "concrete/base01",
+   "concrete/concretefloor013c",
+   "concrete/concretefloor028a_c17",
+   "cs_havana/dirtfloor009c",
+   "cs_havana/floor02",
+   "cs_havana/floor03",
+   "cs_italy/ceiling01",
+   "customtext/gc textures/wood/wood_unfinished05",
+   "customtext/guns",
+   "de_cbble/grassdirt_blend_wvt_patch",
+   "de_cbble/grassfloor01",
+   "de_chateau/brickhmrtr",
+   "de_dust/dusandwllbroken",
+   "de_dust/marketwall05a",
+   "de_dust/tilefloor01",
+   "de_tides/blendgrassstonepath_wvt_patch",
+   "de_train/trainyard_metalwall05",
+   "effects/offgaragedr",
+   "metal/metalwall021f_plain",
+   "metal/metalwall061h",
+   "metal/metalwall065b",
+   "nature/blenddirtgrass001b",
+   "nature/blendgrassgrass001a_wvt_patch",
+   "nature/blendgrassgravel003a_wvt_patch",
+   "nature/infblendgrassdirt001a_wvt_patch",
+   "plaster/plasterceiling007a",
+   "wood/milwall012",
+   "wood/milwndw003",
+   "wood/woodwall037a"
+  ]
+ },
+ "models": {
+  "looked_up": 154,
+  "by_tier": {
+   "category": 4,
+   "default": 149,
+   "fallback": 1
+  }
+ },
+ "sounds": {
+  "looked_up": 2,
+  "by_tier": {
+   "default": 2
+  }
+ },
+ "classes": {
+  "distinct": 37,
+  "entities": 1484,
+  "by_tier": {
+   "default": 37
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "ambient_generic": [
+    "pitch"
+   ],
+   "npc_metropolice": [
+    "manhacks",
+    "weapondrawn"
+   ]
+  }
+ },
+ "links": {
+  "total": 96,
+  "unresolved": 1
+ },
+ "lists": {
+  "textures_unmapped": [
+   "CS_HAVANA/FLOOR02",
+   "CS_HAVANA/FLOOR03",
+   "CUSTOMTEXT/GUNS"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [
+   "props_wasteland/powertower01.mdl"
+  ],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "ambient_generic.pitch",
+   "npc_metropolice.manhacks",
+   "npc_metropolice.weapondrawn"
+  ],
+  "links_unresolved": [
+   "trigger_once.OnStartTouch->physboom1"
+  ],
+  "inputs_unimplemented": [
+   "npc_metropolice.SetHealth",
+   "point_tesla.DoSpark",
+   "prop_dynamic.SetAnimation",
+   "prop_physics.EnableMotion",
+   "prop_physics.Ignite"
+  ],
+  "surfaces_opaque": [
+   "cs_assault/assault_door_decal01"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 3,
+  "textures_flat": 0,
+  "models_unmapped": 1,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 3,
+  "links_unresolved": 1,
+  "inputs_unimplemented": 5,
+  "surfaces_opaque": 1
+ }
+}

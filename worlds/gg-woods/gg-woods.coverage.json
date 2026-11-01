@@ -1,0 +1,103 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "gg-woods",
+ "sha256": "49b7d54b554fe58087618d2891ad391ce939ef263b675c914ecd43a89390facd",
+ "textures": {
+  "looked_up": 7,
+  "drawn": 8,
+  "by_tier": {
+   "addon": 2,
+   "default": 4,
+   "fallback": 1
+  },
+  "free_by_tier": {
+   "addon": 4,
+   "default": 2,
+   "nearest": 2
+  },
+  "nearest_photo": [
+   "fy_woods/blendmildg",
+   "models/props/cs_militia/river01",
+   "nature/blendmilground005_2",
+   "nature/blendmilground008_2_plants"
+  ]
+ },
+ "models": {
+  "looked_up": 17,
+  "by_tier": {
+   "category": 5,
+   "default": 8,
+   "fallback": 3,
+   "skybox": 1
+  }
+ },
+ "sounds": {
+  "looked_up": 3,
+  "by_tier": {
+   "default": 3
+  }
+ },
+ "classes": {
+  "distinct": 28,
+  "entities": 281,
+  "by_tier": {
+   "default": 28
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "ambient_generic": [
+    "pitch"
+   ],
+   "point_viewcontrol": [
+    "acceleration",
+    "deceleration"
+   ]
+  }
+ },
+ "links": {
+  "total": 25,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [
+   "MODELS/PROPS/CS_MILITIA/RIVER01"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [
+   "_outdoor/pflanzen/busch01.mdl",
+   "_outdoor/pflanzen/busch02.mdl",
+   "crow.mdl"
+  ],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "ambient_generic.pitch",
+   "point_viewcontrol.acceleration",
+   "point_viewcontrol.deceleration"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_tonemap_controller.SetAutoExposureMax",
+   "env_tonemap_controller.SetAutoExposureMin",
+   "env_tonemap_controller.SetBloomScale",
+   "prop_dynamic.SetAnimation"
+  ],
+  "surfaces_opaque": [
+   "models/props/cs_militia/river01"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 1,
+  "textures_flat": 0,
+  "models_unmapped": 3,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 3,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 4,
+  "surfaces_opaque": 1
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "dm-overwatch",
+ "sha256": "e62fdb022feece3842f46120aa2bb6304bc6194732c1359e2160808f1c94181d",
+ "textures": {
+  "looked_up": 77,
+  "drawn": 77,
+  "by_tier": {
+   "addon": 47,
+   "default": 30
+  },
+  "free_by_tier": {
+   "addon": 75,
+   "default": 1,
+   "nearest": 1
+  },
+  "nearest_photo": [
+   "building_template/building_template002d",
+   "building_template/building_template002k",
+   "building_template/building_template002m",
+   "building_template/building_template003a",
+   "building_template/building_template003b",
+   "building_template/building_template003c",
+   "building_template/building_template003d",
+   "building_template/building_template003h",
+   "building_template/building_template003i",
+   "building_template/building_template003j",
+   "building_template/building_template003k",
+   "building_template/building_template012g",
+   "building_template/building_template012i",
+   "building_template/building_template013g",
+   "building_template/building_template013n",
+   "building_template/building_template015c",
+   "building_template/building_template015f",
+   "building_template/building_template015g",
+   "building_template/building_template015i",
+   "building_template/building_template019c",
+   "building_template/building_template019d",
+   "building_template/building_template019h",
+   "building_template/building_template024a",
+   "metal/metalwall012b",
+   "plaster/plasterwall030a",
+   "plaster/plasterwallpaper005a",
+   "props/sign_hotel01a",
+   "stone/stonefloor006f",
+   "storefront_template/storefront_template001a"
+  ]
+ },
+ "models": {
+  "looked_up": 64,
+  "by_tier": {
+   "category": 1,
+   "default": 63
+  }
+ },
+ "sounds": {
+  "looked_up": 1,
+  "by_tier": {
+   "fallback": 1
+  }
+ },
+ "classes": {
+  "distinct": 27,
+  "entities": 488,
+  "by_tier": {
+   "default": 27
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "ambient_generic": [
+    "pitch"
+   ],
+   "prop_physics": [
+    "RespawnTime"
+   ],
+   "shadow_control": [
+    "direction"
+   ],
+   "worldspawn": [
+    "MaxRange",
+    "defaultteam",
+    "fogblend",
+    "fogcolor",
+    "fogcolor2",
+    "fogdir",
+    "fogenable",
+    "fogend",
+    "fogstart",
+    "light",
+    "sounds"
+   ]
+  }
+ },
+ "links": {
+  "total": 4,
+  "unresolved": 1
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [
+   "e3_c17_02.gategrindsdown2"
+  ],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "ambient_generic.pitch",
+   "prop_physics.RespawnTime",
+   "shadow_control.direction",
+   "worldspawn.MaxRange",
+   "worldspawn.defaultteam",
+   "worldspawn.fogblend",
+   "worldspawn.fogcolor",
+   "worldspawn.fogcolor2",
+   "worldspawn.fogdir",
+   "worldspawn.fogenable",
+   "worldspawn.fogend",
+   "worldspawn.fogstart",
+   "worldspawn.light",
+   "worldspawn.sounds"
+  ],
+  "links_unresolved": [
+   "prop_physics.OnBreak->crate_10_grenade_maker"
+  ],
+  "inputs_unimplemented": [
+   "phys_ballsocket.Break"
+  ],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 1,
+  "classes_unmapped": 0,
+  "keys_unmapped": 14,
+  "links_unresolved": 1,
+  "inputs_unimplemented": 1,
+  "surfaces_opaque": 0
+ }
+}

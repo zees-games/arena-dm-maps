@@ -1,0 +1,73 @@
+# Texture credits
+
+Every texture of this map is a free replacement; the original map's textures and models are not used.
+
+- pbr (pbr_Grass006): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Grass006
+- pbr (pbr_MetalPlates017A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=MetalPlates017A
+- generated (foliage_card): dot-map cutout_texture, TMC (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
+- pbr (pbr_PaintedWood004): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedWood004
+- pbr (pbr_Terrazzo010): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Terrazzo010
+- pbr (pbr_Asphalt030): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Asphalt030
+- pbr (pbr_scuffed_cement): polyhaven, Dario Barresi, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/scuffed_cement
+- pbr (pbr_Concrete004): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Concrete004
+- pbr (pbr_MetalWalkway003): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=MetalWalkway003
+- pbr (pbr_Road012B): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Road012B
+- pbr (pbr_Pipe002): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Pipe002
+- pbr (pbr_wood_table_001): polyhaven, Dimitrios Savva, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/wood_table_001
+- pbr (pbr_Wallpaper002A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wallpaper002A
+- pbr (pbr_Ground014): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Ground014
+- pbr (pbr_clay_roof_tiles): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/clay_roof_tiles
+- pbr (pbr_Plaster007): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Plaster007
+- pbr (pbr_PaintedMetal016): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedMetal016
+- pbr (pbr_Metal034): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal034
+- pbr (pbr_Tiles131): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles131
+- pbr (pbr_Metal042A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal042A
+- pbr (pbr_PaintedWood002): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedWood002
+- pbr (pbr_Terrazzo017): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Terrazzo017
+- pbr (pbr_Tiles031): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles031
+- pbr (pbr_PavingStones014): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PavingStones014
+- pbr (pbr_PaintedMetal007): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedMetal007
+- pbr (pbr_rusty_metal_03): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/rusty_metal_03
+- pbr (pbr_RoofingTiles014A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=RoofingTiles014A
+- pbr (pbr_quatrefoil_jacquard_fabric): polyhaven, colormass, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/quatrefoil_jacquard_fabric
+- pbr (pbr_PaintedPlaster006): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedPlaster006
+- pbr (pbr_PavingStones012): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PavingStones012
+- pbr (pbr_Fabric006): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Fabric006
+- pbr (pbr_WoodChips002): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=WoodChips002
+- pbr (pbr_PaintedMetal017): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedMetal017
+- pbr (pbr_Chipboard003): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Chipboard003
+- pbr (pbr_hacked_concrete): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/hacked_concrete
+- pbr (pbr_Metal037): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal037
+- pbr (pbr_OfficeCeiling005): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=OfficeCeiling005
+- pbr (pbr_white_stucco): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/white_stucco
+- pbr (pbr_WoodChips003): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=WoodChips003
+- pbr (pbr_Chipboard001): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Chipboard001
+- pbr (pbr_painted_metal_shutter): polyhaven, Dario Barresi, Rico Cilliers, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/painted_metal_shutter
+- pbr (pbr_WoodFloor050): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=WoodFloor050
+- pbr (pbr_Rock023): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Rock023
+- pbr (pbr_clay_roof_tiles_02): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/clay_roof_tiles_02
+- generated (glass): dot-map cutout_texture, TMC (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
+- pbr (pbr_Rust006): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Rust006
+- pbr (pbr_Wood025): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood025
+- pbr (pbr_Tiles100): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles100
+- pbr (pbr_PaintedWood008A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedWood008A
+- pbr (pbr_Fabric056): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Fabric056
+- pbr (pbr_Tiles132A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles132A
+- pbr (pbr_Ground075): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Ground075
+- pbr (pbr_Metal043A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal043A
+- pbr (pbr_mud_cracked_dry_03): polyhaven, Dario Barresi, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/mud_cracked_dry_03
+- pbr (pbr_PavingStones031): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PavingStones031
+- pbr (pbr_cherry_veneer): polyhaven, Jenelle van Heerden, CC0-1.0, https://polyhaven.com/a/cherry_veneer
+- pbr (pbr_Metal055B): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal055B
+- pbr (pbr_Concrete008): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Concrete008
+- pbr (pbr_sapele_veneer): polyhaven, Jenelle van Heerden, CC0-1.0, https://polyhaven.com/a/sapele_veneer
+- pbr (pbr_DiamondPlate006A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=DiamondPlate006A
+- pbr (pbr_WoodFloor038): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=WoodFloor038
+- pbr (pbr_Pipe004): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Pipe004
+- pbr (pbr_Asphalt027A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Asphalt027A
+- pbr (pbr_wood_shutter): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/wood_shutter
+- pbr (pbr_white_maple_veneer): polyhaven, Jenelle van Heerden, CC0-1.0, https://polyhaven.com/a/white_maple_veneer
+- pbr (pbr_ScatteredLeaves008): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=ScatteredLeaves008
+- pbr (pbr_Concrete034): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Concrete034
+- pbr (pbr_PaintedPlaster017): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedPlaster017
+- pbr (pbr_Wallpaper001A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wallpaper001A

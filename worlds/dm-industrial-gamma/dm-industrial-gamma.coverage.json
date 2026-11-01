@@ -1,0 +1,133 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "dm-industrial-gamma",
+ "sha256": "49b2af29e89c790e6da80e1af748e3b4ddd3677a02fd4ba125a423b0797c02f2",
+ "textures": {
+  "looked_up": 142,
+  "drawn": 143,
+  "by_tier": {
+   "addon": 75,
+   "default": 66,
+   "fallback": 1
+  },
+  "free_by_tier": {
+   "addon": 116,
+   "default": 17,
+   "nearest": 10
+  },
+  "nearest_photo": [
+   "black_hawk_maps/map_stamp",
+   "brick/brickwall008d",
+   "brick/offwlla",
+   "brick/offwllb",
+   "brick/offwllbedge",
+   "brick/offwllc",
+   "brick/offwlld",
+   "buildings/gen11",
+   "buildings/gen12",
+   "buildings/gen20",
+   "buildings/gen23",
+   "buildings/gen25",
+   "concrete/base01",
+   "concrete/concretewall021b",
+   "concrete/concretewall041b",
+   "concrete/concretewall041d",
+   "concrete/curba",
+   "concrete/offceilinga",
+   "concrete/offceilingb",
+   "concrete/offflra",
+   "concrete/offwlla",
+   "concrete/offwllatpsnow",
+   "cs_assault/assault_brick1",
+   "cs_assault/metalwall001",
+   "cs_assault/metalwall001a",
+   "de_train/train_blinds_01",
+   "de_train/train_cement_wall_01",
+   "de_train/train_cement_wall_02",
+   "de_train/train_metal_door_01",
+   "de_train/train_metal_door_02",
+   "de_train/train_metalceiling_02",
+   "ground/blendsnow_asphault",
+   "ground/blendsnow_conc",
+   "ground/offterrain",
+   "ground/snow01",
+   "metal/ibeama",
+   "metal/metalcombine001",
+   "metal/metaldoor028b",
+   "metal/metalroof008a_cheap",
+   "metal/metaltruss003a",
+   "metal/metaltruss017a",
+   "metal/metalwall018f_cheap",
+   "metal/metalwall045a_nobump",
+   "metal/prodibeama",
+   "metal/prodventb",
+   "metal/stairsatp",
+   "plaster/offwllf",
+   "props/metalcrate002b",
+   "props/metalcrate002c",
+   "stone/stonetrim001a",
+   "stone/stonetrim003a",
+   "stone/stonetrim004a"
+  ]
+ },
+ "models": {
+  "looked_up": 148,
+  "by_tier": {
+   "category": 5,
+   "default": 139,
+   "skybox": 4
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 31,
+  "entities": 1146,
+  "by_tier": {
+   "default": 31
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "point_viewcontrol": [
+    "acceleration",
+    "deceleration"
+   ]
+  }
+ },
+ "links": {
+  "total": 6,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [
+   "BLACK_HAWK_MAPS/MAP_STAMP"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "point_viewcontrol.acceleration",
+   "point_viewcontrol.deceleration"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 1,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 2,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0
+ }
+}

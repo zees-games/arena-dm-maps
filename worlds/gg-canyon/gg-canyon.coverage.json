@@ -1,0 +1,91 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "gg-canyon",
+ "sha256": "256af7b60c06a03b67eea7d04f9d5ce9bab84f2a79d174299b79758c9d427e7b",
+ "textures": {
+  "looked_up": 10,
+  "drawn": 12,
+  "by_tier": {
+   "addon": 2,
+   "default": 5,
+   "fallback": 3
+  },
+  "free_by_tier": {
+   "addon": 4,
+   "default": 3,
+   "nearest": 5
+  },
+  "nearest_photo": [
+   "anb/canyon/blend_rocksandground",
+   "anb/canyon/blend_rocksandground2",
+   "anb/canyon/canyon_sign",
+   "anb/canyon/canyon_signs",
+   "anb/canyon/rockface"
+  ]
+ },
+ "models": {
+  "looked_up": 13,
+  "by_tier": {
+   "default": 13
+  }
+ },
+ "sounds": {
+  "looked_up": 5,
+  "by_tier": {
+   "default": 2,
+   "fallback": 3
+  }
+ },
+ "classes": {
+  "distinct": 21,
+  "entities": 167,
+  "by_tier": {
+   "default": 21
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "ambient_generic": [
+    "pitch"
+   ]
+  }
+ },
+ "links": {
+  "total": 12,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [
+   "ANB/CANYON/CANYON_SIGN",
+   "ANB/CANYON/CANYON_SIGNS",
+   "FLOW/FLOW"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [
+   "ambient/materials/rock3.wav",
+   "ambient/misc/wood1.wav",
+   "ambient/misc/wood2.wav"
+  ],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "ambient_generic.pitch"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 3,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 3,
+  "classes_unmapped": 0,
+  "keys_unmapped": 1,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0
+ }
+}

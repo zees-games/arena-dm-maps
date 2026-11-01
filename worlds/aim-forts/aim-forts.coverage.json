@@ -1,0 +1,88 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "aim-forts",
+ "sha256": "0c02ec3b01b6c5c52adc9d658b5ddf0c183c359a053027fe9efbdeb93a204b70",
+ "textures": {
+  "looked_up": 31,
+  "drawn": 30,
+  "by_tier": {
+   "addon": 13,
+   "default": 18
+  },
+  "free_by_tier": {
+   "addon": 18,
+   "nearest": 12
+  },
+  "nearest_photo": [
+   "de_dust/groundsand_blend",
+   "de_dust/marketwall05a",
+   "de_dust/residbwall02",
+   "de_dust/sitebwall10a",
+   "de_dust/sitebwall10b",
+   "de_dust/sitebwall12a",
+   "de_dust/sitebwall13b",
+   "de_dust/sitebwall14b",
+   "de_dust/stonestep04",
+   "de_dust/stonewall02a",
+   "de_dust/stonewall02b",
+   "de_dust/templewall02",
+   "de_dust/templewall02a",
+   "de_dust/templewall03",
+   "de_dust/templewall03b",
+   "de_dust/tilefloor01",
+   "stone/stonewall006a"
+  ]
+ },
+ "models": {
+  "looked_up": 15,
+  "by_tier": {
+   "default": 13,
+   "fallback": 2
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 12,
+  "entities": 201,
+  "by_tier": {
+   "default": 12
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 0,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [
+   "props/de_dust/du_dome_d2a.mdl",
+   "props/de_dust/du_dome_d2e.mdl"
+  ],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 2,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0
+ }
+}
