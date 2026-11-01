@@ -157,13 +157,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PaintedMetal016",
+   "name": "pbr_Wood025",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PaintedMetal016",
+   "url": "https://ambientcg.com/view?id=Wood025",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 23
+   "uses": 34
   },
   {
    "kind": "texture",
@@ -444,16 +444,6 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 4
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Wood025",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Wood025",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 11
   },
   {
    "kind": "texture",

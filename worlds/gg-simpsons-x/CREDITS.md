@@ -18,7 +18,7 @@ Every texture of this map is a free replacement; the original map's textures and
 - pbr (pbr_Ground014): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Ground014
 - pbr (pbr_clay_roof_tiles): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/clay_roof_tiles
 - pbr (pbr_Plaster007): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Plaster007
-- pbr (pbr_PaintedMetal016): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedMetal016
+- pbr (pbr_Wood025): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood025
 - pbr (pbr_Metal034): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal034
 - pbr (pbr_Tiles131): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles131
 - pbr (pbr_Metal042A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal042A
@@ -48,7 +48,6 @@ Every texture of this map is a free replacement; the original map's textures and
 - pbr (pbr_clay_roof_tiles_02): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/clay_roof_tiles_02
 - generated (glass): dot-map cutout_texture, TMC (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
 - pbr (pbr_Rust006): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Rust006
-- pbr (pbr_Wood025): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood025
 - pbr (pbr_Tiles100): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles100
 - pbr (pbr_PaintedWood008A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedWood008A
 - pbr (pbr_Fabric056): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Fabric056
