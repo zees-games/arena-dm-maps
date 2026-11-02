@@ -23,9 +23,9 @@
 			"id": "gamemann/crackhouse",
 			"into": "maps/crackhouse",
 			"kind": "store",
-			"manifest_sha256": "eccf3924399c01a2bdd76acdd1208179919649a1bfd5438fa130fc6f6e988eb3",
+			"manifest_sha256": "8f8935cb6a12f478b5ac0d935aa5b938030567da95fd5eebd7c6b5fa6650b816",
 			"optional": true,
-			"version": "1.0.3"
+			"version": "1.0.4"
 		},
 		{
 			"id": "gamemann/dm-hot-cn-v1",
