@@ -30,6 +30,21 @@ All sixteen are GameBanana uploads under the site's default licence, CC BY-NC-ND
 | `gg-woods` | X-tr3m3r | https://gamebanana.com/mods/137426 |
 | `welcometomexicov6` | zaki90 | https://gamebanana.com/mods/117984 |
 
+## cp_orange_x3 (not published)
+
+`cp-orange-x3` is a commercial control point map, imported for deathmatch, team deathmatch and capture the flag. It is commercial content used by the owner's decision: it is **not** in `licence.json`, not in `content.lock.json`, never published to a CDN, and its converted files stay out of git like the rest. Its source BSP lives in `sources/` (git-ignored). The importer keeps what the original map says: its team spawns (teams 2 and 3) become `red` and `blue` spawns, the five control points and the resupply volumes are kept as `control_points` and `resupply` in the manifest, and `zones/cp-orange-x3.json` authors a `flag_spawns` marker at each side's last control point. Textures the pakfile does not carry fall back to the free PBR library or flat colour.
+
+## Which maps host which modes
+
+A map's manifest carries `modes` (from `zones/<id>.json`, mirrored in `maps.json`): the mode ids it can host. Without the list a map hosts the modes its spawns allow (free-for-all and gun game; a team mode needs tagged spawns), and an imported map hosts no objective mode. With it, `ArenaMaps.supports_mode` answers from the list, so a map only offers a mode it is big enough for.
+
+| Map | Modes |
+| --- | --- |
+| `cp-orange-x3` | `ffa`, `gungame`, `snipers`, `tdm`, `ctf` (about 100 by 130 m, two bases 70 m apart) |
+| the sixteen above | free-for-all and gun game (no team spawns, too small for flags) |
+
+The size rule for `ctf`: both bases need their own spawn block and a flag home, and the walk between the flags should take over 20 seconds at run speed, so roughly 60 m between homes. The stock `dm_` maps and the sixteen above are below that.
+
 ## Naming them on a server
 
 A server offers them when its `cfg/server/content/overrides.yml` names them under `game-arena` (dot-server-deploy's `cfg.example` does, so a new box has them), one line per map in `maps.json`. All sixteen are on the production CDN (the fourteen hyphenated ids at 1.0.3, `blackhawkdown` and `welcometomexicov6` at 1.0.1). Ids are hyphenated because the production site refuses an underscore in the repo segment.
