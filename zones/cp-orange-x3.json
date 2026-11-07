@@ -1,0 +1,41 @@
+{
+ "id": "cp-orange-x3",
+ "author": "the original cp_orange_x3 mapper",
+ "attribution": {
+  "author": "the original cp_orange_x3 mapper",
+  "source": "cp_orange_x3.bsp from the owner's map collection (~/map-src)",
+  "archive": "cp_orange_x3.bsp",
+  "recorded": "2026-11-07"
+ },
+ "notes": "Control point map for game-arena: team spawns become red/blue spawns, control points and resupply are kept as markers, flag_spawns place a capture-the-flag layout at each team's last control point. Commercial content used by the owner's decision; NOT published, not on the CDN, content kept out of git.",
+ "kind": "arena",
+ "kind_why": "A control point map played as deathmatch, team deathmatch and capture the flag: built to fight on rather than to time.",
+ "movement": "walk",
+ "modes": [
+  "ffa",
+  "gungame",
+  "snipers",
+  "tdm",
+  "ctf"
+ ],
+ "flag_spawns": [
+  {
+   "team": "red",
+   "origin_src": [
+    1164.58,
+    6223.63,
+    -2039.75
+   ],
+   "yaw_src": 270
+  },
+  {
+   "team": "blue",
+   "origin_src": [
+    -2623.42,
+    889.63,
+    -2039.75
+   ],
+   "yaw_src": 90
+  }
+ ]
+}

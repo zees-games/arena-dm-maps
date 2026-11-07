@@ -103,6 +103,21 @@
       "author": "zaki90",
       "source": "https://gamebanana.com/mods/117984",
       "bytes": 9499138
+    },
+    {
+      "id": "cp-orange-x3",
+      "author": "the original cp_orange_x3 mapper",
+      "source": "cp_orange_x3.bsp, the owner's map collection (no source page)",
+      "licence": "Commercial content, used by the owner's decision",
+      "published": false,
+      "modes": [
+        "ffa",
+        "gungame",
+        "snipers",
+        "tdm",
+        "ctf"
+      ],
+      "bytes": 3290104
     }
   ]
 }
