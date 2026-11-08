@@ -8,7 +8,7 @@ Each map is its own signed pack, `gamemann/<map id>`, released by tagging this r
 
 ## Credits
 
-All sixteen are GameBanana uploads under the site's default licence, CC BY-NC-ND 4.0, credited here with the author and source page. They are published under the credited-community-map exception (`licence.json`), with this credit, the link and the removal offer.
+Sixteen of the maps are GameBanana uploads under the site's default licence, CC BY-NC-ND 4.0, credited here with the author and source page. They are published under the credited-community-map exception (`licence.json`), with this credit, the link and the removal offer.
 
 | Map | Author | Source |
 | --- | --- | --- |
@@ -28,11 +28,12 @@ All sixteen are GameBanana uploads under the site's default licence, CC BY-NC-ND
 | `gg-punishment` | Karatekaefer | https://gamebanana.com/mods/136211 |
 | `gg-simpsons-x` | BasicAir | https://gamebanana.com/mods/136613 |
 | `gg-woods` | X-tr3m3r | https://gamebanana.com/mods/137426 |
+| `cp-orange-x3` | unknown (Orange_X lineage, original by WhiteWolf_X; published with credit and a removal offer) | https://wiki.teamfortress.com/wiki/Orange_X |
 | `welcometomexicov6` | zaki90 | https://gamebanana.com/mods/117984 |
 
-## cp_orange_x3 (not published)
+## cp_orange_x3
 
-`cp-orange-x3` is a commercial control point map, imported for deathmatch, team deathmatch and capture the flag. It is commercial content used by the owner's decision: it is **not** in `licence.json`, not in `content.lock.json`, never published to a CDN, and its converted files stay out of git like the rest. Its source BSP lives in `sources/` (git-ignored). The importer keeps what the original map says: its team spawns (teams 2 and 3) become `red` and `blue` spawns, the five control points and the resupply volumes are kept as `control_points` and `resupply` in the manifest, and `zones/cp-orange-x3.json` authors a `flag_spawns` marker at each side's last control point. Textures the pakfile does not carry fall back to the free PBR library or flat colour.
+`cp-orange-x3` is a control point map, imported for deathmatch, team deathmatch and capture the flag. It is a Team Fortress 2 community map (the Orange_X lineage, original by WhiteWolf_X, https://wiki.teamfortress.com/wiki/Orange_X; the author of this cp_orange_x3 variant is unknown). It is published under the credited-community-map exception with this credit, the link and a removal offer (open an issue and it will be taken down). Every Valve texture and model is replaced by a free one (ambientCG, Poly Haven, Kenney, TMC generated, all CC0); none of the original art ships. Its source BSP lives in `sources/` (git-ignored). The importer keeps what the original map says: its team spawns (teams 2 and 3) become `red` and `blue` spawns, the five control points and the resupply volumes are kept as `control_points` and `resupply` in the manifest, and `zones/cp-orange-x3.json` authors a `flag_spawns` marker at each side's last control point. Textures the pakfile does not carry fall back to the free PBR library or flat colour.
 
 ## Which maps host which modes
 
