@@ -8,6 +8,9 @@
 			"into": "maps/aim-forts",
 			"kind": "store",
 			"manifest_sha256": "ebf7a3c35efd919e7a170ef10c8dc7587b7f322cae726a76ece1ca5f25099b65",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "faa9091f1ac7f8589407ade953f43159e43b0c40b245c1aef96e4c329ea285ac"
+			},
 			"optional": true,
 			"version": "1.0.3"
 		},
@@ -16,6 +19,9 @@
 			"into": "maps/blackhawkdown",
 			"kind": "store",
 			"manifest_sha256": "5fcb1449c975e395e659b807cc6a569631df2cb329f9c1c01914987ed3935126",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "27abfcf12f2646dd283df76005ba30bd34e0f9b763fde17647ae7f69411d9754"
+			},
 			"optional": true,
 			"version": "1.0.1"
 		},
@@ -24,6 +30,9 @@
 			"into": "maps/cp-orange-x3",
 			"kind": "store",
 			"manifest_sha256": "980be7744fb83a9211a3a60caed4044cd3e080819c9827ab236200733c6503aa",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "8b1c55bc06f0b620c9c37441e073554e9437567f6f65a31fa06e48d50aa23f50"
+			},
 			"optional": true,
 			"version": "1.0.0"
 		},
@@ -32,6 +41,9 @@
 			"into": "maps/crackhouse",
 			"kind": "store",
 			"manifest_sha256": "8f8935cb6a12f478b5ac0d935aa5b938030567da95fd5eebd7c6b5fa6650b816",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "f078881660e0b9a17dcaf30020f106266ab780006ebc923a2911b032338d21bc"
+			},
 			"optional": true,
 			"version": "1.0.4"
 		},
@@ -40,6 +52,9 @@
 			"into": "maps/dm-hot-cn-v1",
 			"kind": "store",
 			"manifest_sha256": "8d279fb48e5eb98ecfef23fc81e75a877777609426774682d58a9bee47bca9b1",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "64b26d3ce73cdb64e28453d0f89bb5a4e2e049f92d3c0f33ff43a053c33674e4"
+			},
 			"optional": true,
 			"version": "1.0.3"
 		},
@@ -48,6 +63,9 @@
 			"into": "maps/dm-industrial-gamma",
 			"kind": "store",
 			"manifest_sha256": "139c789bef83bbe165951dd2671b22db5cd1c4985de4a10fda60b683e98ce29b",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "d75e3e35eaa95099c55c6d5da19678aded6f0c75c1290931f1bf10f588b8f64f"
+			},
 			"optional": true,
 			"version": "1.0.3"
 		},
@@ -56,6 +74,9 @@
 			"into": "maps/dm-morpheus",
 			"kind": "store",
 			"manifest_sha256": "5268a6842064086c46ff4fbd5d8776a0211923f769654a5f6ce7c26636dde112",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "6977f85a21cd571346270a3946f36e2a34b87e4f1acb7c8892706e5ebf4b0e8a"
+			},
 			"optional": true,
 			"version": "1.0.3"
 		},
@@ -64,6 +85,9 @@
 			"into": "maps/dm-overwatch",
 			"kind": "store",
 			"manifest_sha256": "32d1ade716cc66067f5825056d32f993427248ec0046c85fd61bed8cb739c649",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "b4c3cc0f163cfa16f8697e13f50d361f9541d1253e6f000932468c21dd503c7d"
+			},
 			"optional": true,
 			"version": "1.0.3"
 		},
@@ -72,6 +96,9 @@
 			"into": "maps/dm-scarletdevilmansion",
 			"kind": "store",
 			"manifest_sha256": "5567a504814105b03c146663b29761a7cdafad25a46a34aed74f87f4915b7725",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "2bf3e6efe069c865d6f767c50fa02517ef204c14640246efbb4bc5806761f52a"
+			},
 			"optional": true,
 			"version": "1.0.3"
 		},
@@ -80,6 +107,9 @@
 			"into": "maps/gg-canyon",
 			"kind": "store",
 			"manifest_sha256": "09a9f2daae97bbdb22749a664bc2db5d50c992dc0004f6eeb9c49aeb7cdc9231",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "00200bc964e9484b7a3dda4ceb343bb3f802a58da67f1593662a9b341e539a67"
+			},
 			"optional": true,
 			"version": "1.0.3"
 		},
@@ -88,6 +118,9 @@
 			"into": "maps/gg-fy-snow",
 			"kind": "store",
 			"manifest_sha256": "2d7895085c42d7d1c459cf0ee0451db55a9ad5b3f919d74aa98ad44941c9287f",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "68d658507878eb2477df7b1f9c326decb2b6336e53358373d16965f93fda6783"
+			},
 			"optional": true,
 			"version": "1.0.3"
 		},
@@ -96,6 +129,9 @@
 			"into": "maps/gg-garage",
 			"kind": "store",
 			"manifest_sha256": "af34bb3806dbe045fe6daea0b67397a17724c43408ddae7fcf5166d3e8748641",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "565d5b6da98452b2d2da6ab48041169374a834df35009c2b03c18d61b8ba4997"
+			},
 			"optional": true,
 			"version": "1.0.3"
 		},
@@ -104,6 +140,9 @@
 			"into": "maps/gg-krusty-krab",
 			"kind": "store",
 			"manifest_sha256": "fcf4c4512f7879b8062fa4d446c024103e566a6d64fbdae7d7eae19d787fe7c2",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "cb3c0ff735db184bd48b1f4076ab271638259c8522820bd61c5688ea4b6688b7"
+			},
 			"optional": true,
 			"version": "1.0.3"
 		},
@@ -112,6 +151,9 @@
 			"into": "maps/gg-lego-arena",
 			"kind": "store",
 			"manifest_sha256": "a20e8c6a00183bbdf7924132a7296eb63111a7445bef301d2089442dd2ceec79",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "0938996b1b9f71e7f7e9dadfc22e804d570221ea21f5c44b71915caaea89a78d"
+			},
 			"optional": true,
 			"version": "1.0.3"
 		},
@@ -120,6 +162,9 @@
 			"into": "maps/gg-punishment",
 			"kind": "store",
 			"manifest_sha256": "24111108a203b433549f81c41461062c551c26d02044e0bebbf5f1cf250b2a1f",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "c90becbd9e9de1c2b8345cb9cdff7f37763edba7803690bceb5cc92d92366cd7"
+			},
 			"optional": true,
 			"version": "1.0.3"
 		},
@@ -128,6 +173,9 @@
 			"into": "maps/gg-simpsons-x",
 			"kind": "store",
 			"manifest_sha256": "9da6b9a9ea1e820f05787fa013a118cde5f6a6a09ca74930b7000403e0eba887",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "f6c2575c84a46fac2b6301268e5502e31adeceac88e9e5334be36ee1063406a9"
+			},
 			"optional": true,
 			"version": "1.0.3"
 		},
@@ -136,6 +184,9 @@
 			"into": "maps/gg-woods",
 			"kind": "store",
 			"manifest_sha256": "c868aaeb595232dc075654d2f2457bc0f9006d953c2919bd0185d6dffd2bead8",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "50be01bcf016b948f969fd536c5ed91a3d40b33b74d96acd066becedf46096c6"
+			},
 			"optional": true,
 			"version": "1.0.3"
 		},
@@ -144,6 +195,9 @@
 			"into": "maps/welcometomexicov6",
 			"kind": "store",
 			"manifest_sha256": "4aaf34f6f09d244ccca71e0249e94d71ef9ca332acfd2a7506f1cfd72ceb2134",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "59d6c2ea8e1d729fdb140eb698b2c6ac6ec363f1f6be77476e7fe5dd42f4358e"
+			},
 			"optional": true,
 			"version": "1.0.1"
 		}
