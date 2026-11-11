@@ -82,9 +82,7 @@
   "classes_unmapped": [],
   "keys_unmapped": [],
   "links_unresolved": [],
-  "inputs_unimplemented": [
-   "phys_ballsocket.Break"
-  ],
+  "inputs_unimplemented": [],
   "surfaces_opaque": [],
   "links_dangling": [
    "prop_physics.OnBreak->crate_10_grenade_maker"
@@ -98,7 +96,7 @@
   "classes_unmapped": 0,
   "keys_unmapped": 0,
   "links_unresolved": 0,
-  "inputs_unimplemented": 1,
+  "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
   "links_dangling": 1
  }

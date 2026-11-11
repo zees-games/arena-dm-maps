@@ -98,10 +98,6 @@
   "keys_unmapped": [],
   "links_unresolved": [],
   "inputs_unimplemented": [
-   "npc_metropolice.SetHealth",
-   "point_tesla.DoSpark",
-   "prop_dynamic.SetAnimation",
-   "prop_physics.EnableMotion",
    "prop_physics.Ignite"
   ],
   "surfaces_opaque": [],
@@ -117,7 +113,7 @@
   "classes_unmapped": 0,
   "keys_unmapped": 0,
   "links_unresolved": 0,
-  "inputs_unimplemented": 5,
+  "inputs_unimplemented": 1,
   "surfaces_opaque": 0,
   "links_dangling": 1
  }

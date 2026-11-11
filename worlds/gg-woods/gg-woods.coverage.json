@@ -57,12 +57,7 @@
   "classes_unmapped": [],
   "keys_unmapped": [],
   "links_unresolved": [],
-  "inputs_unimplemented": [
-   "env_tonemap_controller.SetAutoExposureMax",
-   "env_tonemap_controller.SetAutoExposureMin",
-   "env_tonemap_controller.SetBloomScale",
-   "prop_dynamic.SetAnimation"
-  ],
+  "inputs_unimplemented": [],
   "surfaces_opaque": []
  },
  "counts": {
@@ -73,7 +68,7 @@
   "classes_unmapped": 0,
   "keys_unmapped": 0,
   "links_unresolved": 0,
-  "inputs_unimplemented": 4,
+  "inputs_unimplemented": 0,
   "surfaces_opaque": 0
  }
 }
