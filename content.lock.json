@@ -29,12 +29,9 @@
 			"id": "gamemann/cp-orange-x3",
 			"into": "maps/cp-orange-x3",
 			"kind": "store",
-			"manifest_sha256": "980be7744fb83a9211a3a60caed4044cd3e080819c9827ab236200733c6503aa",
-			"manifest_sha256_by_origin": {
-				"https://dev.dotgames.org/content": "8b1c55bc06f0b620c9c37441e073554e9437567f6f65a31fa06e48d50aa23f50"
-			},
+			"manifest_sha256": "bbe690761c71945a5315669dbfbe8a348768b25ec7479b0009c1a5b3178b7fb1",
 			"optional": true,
-			"version": "1.0.0"
+			"version": "1.0.1"
 		},
 		{
 			"id": "gamemann/crackhouse",
