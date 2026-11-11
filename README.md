@@ -1,10 +1,10 @@
-# arena-dm-maps
+# fc-dm-maps
 
-Deathmatch and gun game maps Zee's Fatal Contact ([game-arena](https://github.com/zees-games/game-fatal-contact)) plays, as a repository of their own: the imported maps in `maps/` and the list of them with their authors in `maps.json`.
+Deathmatch and gun game maps Zee's Fatal Contact ([game-fatal-contact](https://github.com/zees-games/game-fatal-contact)) plays, as a repository of their own: the imported maps in `maps/` and the list of them with their authors in `maps.json`.
 
 Every map here is somebody else's work, imported so it can be played again, and credited in `maps.json`, below and on screen whenever a server changes to it. If you made one of these maps and want it credited differently or taken down, open an issue and it will be done.
 
-Each map is its own signed pack, `gamemann/<map id>`, released by tagging this repository (see `.github/workflows/release.yml`). `maps/` is linked at game-arena's `maps/imported_dm` (a `# bootstrap-link:` line in its `.gitignore`), beside the surf maps; `headless_dm_maps` checks them.
+Each map is its own signed pack, `gamemann/<map id>`, released by tagging this repository (see `.github/workflows/release.yml`). `maps/` is linked at game-fatal-contact's `maps/imported_dm` (a `# bootstrap-link:` line in its `.gitignore`), beside the surf maps; `headless_dm_maps` checks them.
 
 ## Credits
 
@@ -50,7 +50,7 @@ The size rule for `ctf`: both bases need their own spawn block and a flag home, 
 
 A server offers them when its `cfg/server/content/overrides.yml` names them under `game-arena` (dot-server-deploy's `cfg.example` does, so a new box has them), one line per map in `maps.json`. All sixteen are on the production CDN (the fourteen hyphenated ids at 1.0.3, `blackhawkdown` and `welcometomexicov6` at 1.0.1). Ids are hyphenated because the production site refuses an underscore in the repo segment.
 
-The map files are not in git. `content.lock.json` pins each map's pack (kind `store`, `into: maps/<id>`), so `../dot-bootstrap/bootstrap.sh` (or `./fetch-content.sh` here) fills `maps/` and with it game-arena's `maps/imported_dm`.
+The map files are not in git. `content.lock.json` pins each map's pack (kind `store`, `into: maps/<id>`), so `../dot-bootstrap/bootstrap.sh` (or `./fetch-content.sh` here) fills `maps/` and with it game-fatal-contact's `maps/imported_dm`.
 
 ```yaml
 games:
