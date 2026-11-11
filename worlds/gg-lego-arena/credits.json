@@ -17,20 +17,20 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles100",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_blue_plaster_wall",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles100",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "source": "polyhaven",
    "attribution": false,
-   "uses": 14
+   "uses": 16
   },
   {
    "kind": "texture",
-   "name": "pbr_Chipboard003",
+   "name": "pbr_PaintedPlaster004",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Chipboard003",
+   "url": "https://ambientcg.com/view?id=PaintedPlaster004",
    "source": "ambientCG",
    "attribution": false,
    "uses": 8
@@ -47,13 +47,23 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Planks028",
+   "name": "pbr_PaintedPlaster007",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Planks028",
+   "url": "https://ambientcg.com/view?id=PaintedPlaster007",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 14
+   "uses": 6
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_PaintedPlaster001",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=PaintedPlaster001",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 8
   },
   {
    "kind": "texture",
@@ -67,10 +77,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones004",
+   "name": "pbr_Facade020A",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones004",
+   "url": "https://ambientcg.com/view?id=Facade020A",
    "source": "ambientCG",
    "attribution": false,
    "uses": 2
@@ -97,20 +107,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles135D",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_rectangular_facade_tiles",
+   "author": "Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles135D",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 2
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_blue_plaster_wall",
-   "author": "Dimitrios Savva",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "url": "https://polyhaven.com/a/rectangular_facade_tiles",
    "source": "polyhaven",
    "attribution": false,
    "uses": 2

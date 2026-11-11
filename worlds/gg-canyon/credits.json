@@ -7,31 +7,31 @@
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_rock_ground_02",
-   "author": "Rob Tuytel",
+   "name": "pbr_Rock038",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rock_ground_02",
+   "url": "https://ambientcg.com/view?id=Rock038",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 28
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_damp_beach_sand_02",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/damp_beach_sand_02",
    "source": "polyhaven",
    "attribution": false,
    "uses": 28
   },
   {
    "kind": "texture",
-   "name": "pbr_forrest_sand_01",
-   "author": "Rob Tuytel",
+   "name": "pbr_Rock046L",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/forrest_sand_01",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 28
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_rock_08",
-   "author": "Rob Tuytel",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rock_08",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Rock046L",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 46
   },
@@ -47,11 +47,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_SheetMetal003",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_teak_veneer",
+   "author": "Jenelle van Heerden",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=SheetMetal003",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/teak_veneer",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 4
   },
@@ -167,13 +167,13 @@
   },
   {
    "kind": "sound",
-   "name": "water_run",
+   "name": "metal_slide",
    "author": "Kenney",
    "licence": "CC0-1.0",
    "url": "https://kenney.nl/assets/foley-sounds",
    "source": "Kenney Foley Sounds",
    "attribution": false,
-   "uses": 2
+   "uses": 11
   }
  ]
 }

@@ -27,13 +27,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_plaster_stone_wall_02",
+   "name": "pbr_plaster_stone_wall_01",
    "author": "Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/plaster_stone_wall_02",
+   "url": "https://polyhaven.com/a/plaster_stone_wall_01",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 1
+   "uses": 4
   },
   {
    "kind": "texture",
@@ -77,10 +77,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_raked_dirt",
-   "author": "Dario Barresi, Dimitrios Savva",
+   "name": "pbr_flower_scattered_dirt",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/raked_dirt",
+   "url": "https://polyhaven.com/a/flower_scattered_dirt",
    "source": "polyhaven",
    "attribution": false,
    "uses": 43
@@ -97,20 +97,20 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_patterned_concrete_pavers",
-   "author": "Amal Kumar",
+   "name": "pbr_concrete_pavement_02",
+   "author": "Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/patterned_concrete_pavers",
+   "url": "https://polyhaven.com/a/concrete_pavement_02",
    "source": "polyhaven",
    "attribution": false,
    "uses": 44
   },
   {
    "kind": "texture",
-   "name": "pbr_Bricks009",
+   "name": "pbr_Bricks075A",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Bricks009",
+   "url": "https://ambientcg.com/view?id=Bricks075A",
    "source": "ambientCG",
    "attribution": false,
    "uses": 24
@@ -123,7 +123,7 @@
    "url": "https://ambientcg.com/view?id=Bricks067",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 41
+   "uses": 46
   },
   {
    "kind": "texture",
@@ -157,10 +157,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Bricks014",
+   "name": "pbr_Bricks043",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Bricks014",
+   "url": "https://ambientcg.com/view?id=Bricks043",
    "source": "ambientCG",
    "attribution": false,
    "uses": 37
@@ -213,7 +213,7 @@
    "url": "https://polyhaven.com/a/grey_plaster_02",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 9
+   "uses": 13
   },
   {
    "kind": "texture",
@@ -267,13 +267,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones121",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_plaster_grey_04",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones121",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/plaster_grey_04",
+   "source": "polyhaven",
    "attribution": false,
-   "uses": 7
+   "uses": 9
   },
   {
    "kind": "texture",
@@ -283,7 +283,7 @@
    "url": "https://polyhaven.com/a/concrete_tile_facade",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 9
+   "uses": 14
   },
   {
    "kind": "texture",
@@ -294,16 +294,6 @@
    "source": "polyhaven",
    "attribution": false,
    "uses": 17
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Bricks063",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Bricks063",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 5
   },
   {
    "kind": "texture",
@@ -334,26 +324,6 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 19
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_rough_plaster_03",
-   "author": "Rob Tuytel",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rough_plaster_03",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 4
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_plaster_stone_wall_01",
-   "author": "Charlotte Baglioni",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/plaster_stone_wall_01",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 3
   },
   {
    "kind": "texture",
@@ -437,16 +407,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles015",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles015",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 5
-  },
-  {
-   "kind": "texture",
    "name": "pbr_MetalWalkway001",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -454,16 +414,6 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 3
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Concrete026",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Concrete026",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 2
   },
   {
    "kind": "texture",
@@ -527,10 +477,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Metal032",
+   "name": "pbr_Facade006",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal032",
+   "url": "https://ambientcg.com/view?id=Facade006",
    "source": "ambientCG",
    "attribution": false,
    "uses": 3
@@ -557,11 +507,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_church_bricks_03",
-   "author": "Rob Tuytel",
+   "name": "pbr_Fabric028",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/church_bricks_03",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Fabric028",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 1
   },
@@ -673,7 +623,47 @@
    "url": "https://kenney.nl/assets/nature-kit",
    "source": "Kenney Nature Kit",
    "attribution": false,
-   "uses": 13
+   "uses": 4
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_carhatch",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/vehicles.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 11
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_cinder_block",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/cinder_block.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 9
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_lighttroffer",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/building_props.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 20
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_rubbish_pile",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/rubbish_pile.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 1
   },
   {
    "kind": "model",
@@ -693,27 +683,17 @@
    "url": "https://github.com/modcommunity/dot-map",
    "source": "Modelled for dot-map",
    "attribution": false,
-   "uses": 17
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_car-kit_sedan-sports",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/car-kit",
-   "source": "Kenney Car Kit",
-   "attribution": false,
    "uses": 1
   },
   {
    "kind": "model",
-   "name": "lib/kenney_food-kit_can",
+   "name": "lib/kenney_food-kit_carton",
    "author": "Kenney",
    "licence": "CC0-1.0",
    "url": "https://kenney.nl/assets/food-kit",
    "source": "Kenney Food Kit",
    "attribution": false,
-   "uses": 5
+   "uses": 3
   },
   {
    "kind": "model",
@@ -757,6 +737,26 @@
   },
   {
    "kind": "model",
+   "name": "lib/ph_bleach_bottle",
+   "author": "James Ray Cock",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/bleach_bottle",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_brass_pot_01",
+   "author": "Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/brass_pot_01",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
    "name": "lib/ph_compost_bag_02",
    "author": "Satyaki Mandal",
    "licence": "CC0-1.0",
@@ -764,16 +764,6 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 18
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_covered_car",
-   "author": "MP",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/covered_car",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 10
   },
   {
    "kind": "model",
@@ -814,16 +804,6 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 10
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_leather_cleaner_can",
-   "author": "James Ray Cock",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/leather_cleaner_can",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 2
   },
   {
    "kind": "model",
@@ -897,16 +877,6 @@
   },
   {
    "kind": "model",
-   "name": "lib/ph_trashbag",
-   "author": "Benny Weimer",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/trashbag",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "model",
    "name": "lib/ph_vintage_day_bed",
    "author": "Aron \u0141yczek",
    "licence": "CC0-1.0",
@@ -927,13 +897,23 @@
   },
   {
    "kind": "model",
-   "name": "lib/ph_wooden_military_crate",
-   "author": "Prabhjinder Singh",
+   "name": "lib/ph_wooden_bucket_01",
+   "author": "James Ray Cock",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/wooden_military_crate",
+   "url": "https://polyhaven.com/a/wooden_bucket_01",
    "source": "Poly Haven",
    "attribution": false,
-   "uses": 4
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_classic_bicycle_lowpoly_game_ready_da6507",
+   "author": "by__Rx",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-da6507928c0c4a5c8776008cdb9f747e",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 1
   },
   {
    "kind": "model",
@@ -997,16 +977,6 @@
   },
   {
    "kind": "model",
-   "name": "lib/sf_psx_shopping_cart_96534b",
-   "author": "Brainsick Games",
-   "licence": "CC-BY-4.0",
-   "url": "https://sketchfab.com/3d-models/none-96534b56f0d9487db08f00f1f9301fa1",
-   "source": "Sketchfab",
-   "attribution": true,
-   "uses": 1
-  },
-  {
-   "kind": "model",
    "name": "lib/sf_small_self_stand_fence_okp_9c78bf",
    "author": "Aleksey Kozhemyakin",
    "licence": "CC-BY-4.0",
@@ -1043,7 +1013,7 @@
    "url": "https://kenney.nl/assets/sci-fi-sounds",
    "source": "Kenney Sci-Fi Sounds",
    "attribution": false,
-   "uses": 2
+   "uses": 3
   }
  ]
 }

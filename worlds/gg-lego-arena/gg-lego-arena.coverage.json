@@ -7,11 +7,10 @@
   "looked_up": 14,
   "drawn": 14,
   "by_tier": {
-   "fallback": 14
+   "default": 14
   },
   "free_by_tier": {
-   "addon": 10,
-   "nearest": 4
+   "addon": 14
   },
   "nearest_photo": [
    "customs/kk",
@@ -54,22 +53,7 @@
   "unresolved": 0
  },
  "lists": {
-  "textures_unmapped": [
-   "CUSTOMS/KK",
-   "CUSTOMS/MCK",
-   "MY_LEGO/BLACK_WALL3D",
-   "MY_LEGO/BLUE",
-   "MY_LEGO/BLUE_BLOCK",
-   "MY_LEGO/BLUE_WALL3D",
-   "MY_LEGO/ORANGE",
-   "MY_LEGO/ORANGE_BLOCK",
-   "MY_LEGO1/ORANGE_WALL3D",
-   "MY_LEGO1/RED",
-   "MY_LEGO1/RED_BLOCK",
-   "MY_LEGO1/RED_WALL3D",
-   "MY_LEGO1/WHITE",
-   "MY_LEGO1/WHITE_WALL3D"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -80,7 +64,7 @@
   "surfaces_opaque": []
  },
  "counts": {
-  "textures_unmapped": 14,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,

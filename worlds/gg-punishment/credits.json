@@ -7,40 +7,30 @@
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_DiamondPlate006B",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_kenney_prototype_orange_03",
+   "author": "Kenney",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=DiamondPlate006B",
-   "source": "ambientCG",
+   "url": "https://kenney.nl/assets/prototype-textures",
+   "source": "Kenney",
    "attribution": false,
-   "uses": 28
+   "uses": 56
   },
   {
    "kind": "texture",
-   "name": "pbr_Asphalt003",
+   "name": "pbr_Facade006",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Asphalt003",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 28
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Ground014",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Ground014",
+   "url": "https://ambientcg.com/view?id=Facade006",
    "source": "ambientCG",
    "attribution": false,
    "uses": 8
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles011",
+   "name": "pbr_Wallpaper001A",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles011",
+   "url": "https://ambientcg.com/view?id=Wallpaper001A",
    "source": "ambientCG",
    "attribution": false,
    "uses": 2
@@ -67,11 +57,11 @@
   },
   {
    "kind": "model",
-   "name": "lib/own_box_21x3x21_e8e8e0",
-   "author": "TMC (generated for dot-map)",
+   "name": "lib/dm_light_inset",
+   "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map",
-   "source": "TMC generated model",
+   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/light_inset.py",
+   "source": "dot-map Blender model",
    "attribution": false,
    "uses": 16
   },
