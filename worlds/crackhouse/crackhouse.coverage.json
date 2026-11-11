@@ -8,13 +8,11 @@
   "drawn": 30,
   "by_tier": {
    "addon": 23,
-   "default": 7,
-   "fallback": 1
+   "default": 8
   },
   "free_by_tier": {
-   "addon": 26,
-   "default": 1,
-   "nearest": 3
+   "addon": 29,
+   "default": 1
   },
   "nearest_photo": [
    "building_template/building_template022c",
@@ -28,8 +26,8 @@
  "models": {
   "looked_up": 32,
   "by_tier": {
-   "default": 31,
-   "fallback": 1
+   "category": 1,
+   "default": 31
   }
  },
  "sounds": {
@@ -52,13 +50,9 @@
   "unresolved": 0
  },
  "lists": {
-  "textures_unmapped": [
-   "MODELS/PROPS/CS_OFFICE/TABLE_MEETING"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
-  "models_unmapped": [
-   "props/de_prodigy/platform.mdl"
-  ],
+  "models_unmapped": [],
   "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [],
@@ -67,9 +61,9 @@
   "surfaces_opaque": []
  },
  "counts": {
-  "textures_unmapped": 1,
+  "textures_unmapped": 0,
   "textures_flat": 0,
-  "models_unmapped": 1,
+  "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
   "keys_unmapped": 0,

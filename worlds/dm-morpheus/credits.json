@@ -37,13 +37,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Asphalt003",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_kenney_prototype_dark_01",
+   "author": "Kenney",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Asphalt003",
-   "source": "ambientCG",
+   "url": "https://kenney.nl/assets/prototype-textures",
+   "source": "Kenney",
    "attribution": false,
-   "uses": 98
+   "uses": 110
   },
   {
    "kind": "texture",
@@ -97,10 +97,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones004",
+   "name": "pbr_Concrete030",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones004",
+   "url": "https://ambientcg.com/view?id=Concrete030",
    "source": "ambientCG",
    "attribution": false,
    "uses": 7
@@ -247,16 +247,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_DiamondPlate006B",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=DiamondPlate006B",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 12
-  },
-  {
-   "kind": "texture",
    "name": "pbr_Metal036",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -277,13 +267,23 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Concrete024",
+   "name": "pbr_Concrete005",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Concrete024",
+   "url": "https://ambientcg.com/view?id=Concrete005",
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_lighttroffer",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/building_props.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 60
   },
   {
    "kind": "model",
@@ -364,16 +364,6 @@
    "source": "Sketchfab",
    "attribution": true,
    "uses": 3
-  },
-  {
-   "kind": "model",
-   "name": "lib/sf_weathered_fluorescent_light_lamp_07c280",
-   "author": "Mark Peters",
-   "licence": "CC-BY-4.0",
-   "url": "https://sketchfab.com/3d-models/none-07c2805b50b6476f8e0ad467fae00b82",
-   "source": "Sketchfab",
-   "attribution": true,
-   "uses": 60
   }
  ]
 }

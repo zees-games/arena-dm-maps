@@ -11,8 +11,7 @@
    "default": 18
   },
   "free_by_tier": {
-   "addon": 18,
-   "nearest": 12
+   "addon": 30
   },
   "nearest_photo": [
    "de_dust/groundsand_blend",
@@ -37,8 +36,8 @@
  "models": {
   "looked_up": 15,
   "by_tier": {
-   "default": 13,
-   "fallback": 2
+   "category": 2,
+   "default": 13
   }
  },
  "sounds": {
@@ -63,10 +62,7 @@
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
-  "models_unmapped": [
-   "props/de_dust/du_dome_d2a.mdl",
-   "props/de_dust/du_dome_d2e.mdl"
-  ],
+  "models_unmapped": [],
   "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [],
@@ -77,7 +73,7 @@
  "counts": {
   "textures_unmapped": 0,
   "textures_flat": 0,
-  "models_unmapped": 2,
+  "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
   "keys_unmapped": 0,

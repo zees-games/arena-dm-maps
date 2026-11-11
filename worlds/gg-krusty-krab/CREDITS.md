@@ -32,14 +32,17 @@ Every texture of this map is a free replacement; the original map's textures and
 
 # Model stand-ins
 
+- lib/dm_milcratetall: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map/blob/main/tools/models/building_props.py
 - lib/dm_wood_crate_cube: dot-map Blender remodel, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map/blob/main/tools/models/wood_crate.py
 - lib/kenney_food-kit_tomato: Kenney Food Kit, Kenney, CC0-1.0, https://kenney.nl/assets/food-kit
-- lib/kenney_graveyard-kit_gravestone-wide: Kenney Graveyard Kit, Kenney, CC0-1.0, https://kenney.nl/assets/graveyard-kit
+- lib/kenney_furniture-kit_kitchenSink: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
 - lib/kenney_mini-market_wall-window: Kenney Mini Market, Kenney, CC0-1.0, https://kenney.nl/assets/mini-market
 - lib/kenney_pirate-kit_boat-row-large: Kenney Pirate Kit, Kenney, CC0-1.0, https://kenney.nl/assets/pirate-kit
-- lib/ph_bronze_whale_statue: Poly Haven, Tina, CC0-1.0, https://polyhaven.com/a/bronze_whale_statue
+- lib/kenney_pirate-kit_cannon-mobile: Kenney Pirate Kit, Kenney, CC0-1.0, https://kenney.nl/assets/pirate-kit
+- lib/own_cyl_30x105x254_3a3a38: TMC generated model, TMC (generated for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map
+- lib/ph_brass_pot_02: Poly Haven, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/brass_pot_02
 - lib/ph_chinese_chandelier: Poly Haven, Kirill Sannikov, CC0-1.0, https://polyhaven.com/a/chinese_chandelier
-- lib/ph_classic_laptop: Poly Haven, Arrangemonk, CC0-1.0, https://polyhaven.com/a/classic_laptop
+- lib/ph_electric_stove: Poly Haven, Kuutti Siitonen, CC0-1.0, https://polyhaven.com/a/electric_stove
 - lib/ph_industrial_pipe_lamp: Poly Haven, Mateusz Sadek, CC0-1.0, https://polyhaven.com/a/industrial_pipe_lamp
 - lib/ph_industrial_wall_lamp: Poly Haven, Kuutti Siitonen, CC0-1.0, https://polyhaven.com/a/industrial_wall_lamp
 - lib/ph_island_tree_02: Poly Haven, Rob Tuytel, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/island_tree_02
@@ -49,11 +52,9 @@ Every texture of this map is a free replacement; the original map's textures and
 - lib/ph_painted_wooden_cabinet_02: Poly Haven, Kirill Sannikov, CC0-1.0, https://polyhaven.com/a/painted_wooden_cabinet_02
 - lib/ph_sofa_02: Poly Haven, Kirill Sannikov, CC0-1.0, https://polyhaven.com/a/sofa_02
 - lib/ph_steel_frame_shelves_03: Poly Haven, Ulan Cabanilla, CC0-1.0, https://polyhaven.com/a/steel_frame_shelves_03
-- lib/ph_vintage_microwave: Poly Haven, Adam Nekola, CC0-1.0, https://polyhaven.com/a/vintage_microwave
 - lib/ph_wall_clock: Poly Haven, PierreB3D, CC0-1.0, https://polyhaven.com/a/wall_clock
 - lib/ph_wooden_bookshelf_worn: Poly Haven, Ulan Cabanilla, CC0-1.0, https://polyhaven.com/a/wooden_bookshelf_worn
 - lib/sf_a_cologne_bottle_1da1c2: Sketchfab, Virtual Museums of Małopolska, CC0-1.0, https://sketchfab.com/3d-models/none-1da1c21acb1f472c927c364b8429927b
-- lib/sf_coffee_mug_6c9589: Sketchfab, The Lister, CC-BY-4.0, https://sketchfab.com/3d-models/none-6c95897de04143aeb5c75b7630707d27
 - lib/sf_fallout_4_nuka_cola_bottle_17cd00: Sketchfab, Aike, CC-BY-4.0, https://sketchfab.com/3d-models/none-17cd007c38824321b184c763b1eec4e2
 - lib/sf_old_fridge_6b2862: Sketchfab, sergeilihandristov, CC-BY-4.0, https://sketchfab.com/3d-models/none-6b2862c241754f5d81690e8664e41091
 - lib/sf_toilet_132a8e: Sketchfab, HippoStance, CC-BY-4.0, https://sketchfab.com/3d-models/none-132a8ee2af3a40d39d270fbed3d3666c

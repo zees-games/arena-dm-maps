@@ -1,7 +1,7 @@
 {
  "map": {
   "author": "unknown",
-  "page": "https://github.com/zees-games/fc-dm-maps/tree/main/maps/crackhouse",
+  "page": "https://github.com/zees-games/arena-dm-maps/tree/main/maps/crackhouse",
   "licence": "none stated"
  },
  "works": [
@@ -17,10 +17,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_gravel_concrete_03",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_bicolour_gravel",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/gravel_concrete_03",
+   "url": "https://polyhaven.com/a/bicolour_gravel",
    "source": "polyhaven",
    "attribution": false,
    "uses": 24
@@ -187,10 +187,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_wood_table_001",
-   "author": "Dimitrios Savva, Rico Cilliers",
+   "name": "pbr_dark_paneled_wood",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/wood_table_001",
+   "url": "https://polyhaven.com/a/dark_paneled_wood",
    "source": "polyhaven",
    "attribution": false,
    "uses": 3
@@ -217,10 +217,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Wood083B",
+   "name": "pbr_Planks029L",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Wood083B",
+   "url": "https://ambientcg.com/view?id=Planks029L",
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
@@ -303,7 +303,17 @@
    "url": "https://kenney.nl/assets/survival-kit",
    "source": "Kenney Survival Kit",
    "attribution": false,
-   "uses": 3
+   "uses": 6
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_armouredcarrier",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/vehicles.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 5
   },
   {
    "kind": "model",
@@ -314,6 +324,16 @@
    "source": "dot-map Blender remodel",
    "attribution": false,
    "uses": 6
+  },
+  {
+   "kind": "model",
+   "name": "lib/own_box_200x30x200_808080",
+   "author": "TMC (generated for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map",
+   "source": "TMC generated model",
+   "attribution": false,
+   "uses": 1
   },
   {
    "kind": "model",
@@ -334,26 +354,6 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 2
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_covered_car",
-   "author": "MP",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/covered_car",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 4
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_leather_cleaner_can",
-   "author": "James Ray Cock",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/leather_cleaner_can",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 3
   },
   {
    "kind": "model",
@@ -393,16 +393,6 @@
    "url": "https://polyhaven.com/a/wooden_table_02",
    "source": "Poly Haven",
    "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "lib/sf_1938_vairogs_v8_flatbed_truck_ford_based_198623",
-   "author": "Libau Media",
-   "licence": "CC-BY-4.0",
-   "url": "https://sketchfab.com/3d-models/none-1986239266ee44c788fd6effe4055704",
-   "source": "Sketchfab",
-   "attribution": true,
    "uses": 1
   },
   {

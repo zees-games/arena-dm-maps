@@ -13,47 +13,27 @@
    "url": "https://polyhaven.com/a/marble_rock_02",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 36
+   "uses": 58
   },
   {
    "kind": "texture",
-   "name": "pbr_cobblestone_large_01",
+   "name": "pbr_rocks_ground_01",
    "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/cobblestone_large_01",
+   "url": "https://polyhaven.com/a/rocks_ground_01",
    "source": "polyhaven",
    "attribution": false,
    "uses": 14
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones146",
+   "name": "pbr_Travertine009",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones146",
+   "url": "https://ambientcg.com/view?id=Travertine009",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 20
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Marble026",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Marble026",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 6
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Marble014",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Marble014",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 4
+   "uses": 11
   },
   {
    "kind": "texture",
@@ -63,7 +43,7 @@
    "url": "https://polyhaven.com/a/stone_wall",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 4
+   "uses": 7
   },
   {
    "kind": "texture",
@@ -97,30 +77,20 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_cobblestone_floor_05",
+   "name": "pbr_cobblestone_floor_03",
    "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/cobblestone_floor_05",
+   "url": "https://polyhaven.com/a/cobblestone_floor_03",
    "source": "polyhaven",
    "attribution": false,
    "uses": 6
   },
   {
    "kind": "texture",
-   "name": "pbr_Marble015",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Marble015",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 7
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_dry_ground_rocks",
+   "name": "pbr_aerial_ground_rock",
    "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/dry_ground_rocks",
+   "url": "https://polyhaven.com/a/aerial_ground_rock",
    "source": "polyhaven",
    "attribution": false,
    "uses": 6
@@ -137,13 +107,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_marble_cliff_04",
-   "author": "Amal Kumar",
+   "name": "pbr_Rock040",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/marble_cliff_04",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Rock040",
+   "source": "ambientCG",
    "attribution": false,
-   "uses": 2
+   "uses": 6
   },
   {
    "kind": "texture",
@@ -174,16 +144,6 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 2
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_yellow_stone_wall",
-   "author": "S\u01a1n Nguy\u1ec5n",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/yellow_stone_wall",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 3
   },
   {
    "kind": "texture",
@@ -297,23 +257,23 @@
   },
   {
    "kind": "model",
+   "name": "lib/dm_woodcart",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/vehicles.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "model",
    "name": "lib/fxfountain",
    "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
    "url": "https://github.com/modcommunity/dot-map",
    "source": "Modelled for dot-map",
    "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_car-kit_sedan-sports",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/car-kit",
-   "source": "Kenney Car Kit",
-   "attribution": false,
-   "uses": 2
+   "uses": 7
   },
   {
    "kind": "model",

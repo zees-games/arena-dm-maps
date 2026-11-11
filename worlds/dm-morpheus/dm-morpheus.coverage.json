@@ -8,13 +8,11 @@
   "drawn": 33,
   "by_tier": {
    "addon": 26,
-   "default": 5,
-   "fallback": 2
+   "default": 7
   },
   "free_by_tier": {
-   "addon": 30,
-   "default": 2,
-   "nearest": 1
+   "addon": 31,
+   "default": 2
   },
   "nearest_photo": [
    "concrete/concretefloor034a",
@@ -43,45 +41,30 @@
  },
  "keys": {
   "catalogue": true,
-  "unmapped": {
-   "point_servercommand": [
-    "phys_pushscale",
-    "sv_airaccelerate",
-    "sv_friction",
-    "sv_gravity"
-   ]
-  }
+  "unmapped": {}
  },
  "links": {
   "total": 0,
   "unresolved": 0
  },
  "lists": {
-  "textures_unmapped": [
-   "MORPHEUS/BASE05",
-   "MORPHEUS/BASE06"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
   "classes_unmapped": [],
-  "keys_unmapped": [
-   "point_servercommand.phys_pushscale",
-   "point_servercommand.sv_airaccelerate",
-   "point_servercommand.sv_friction",
-   "point_servercommand.sv_gravity"
-  ],
+  "keys_unmapped": [],
   "links_unresolved": [],
   "inputs_unimplemented": [],
   "surfaces_opaque": []
  },
  "counts": {
-  "textures_unmapped": 2,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 4,
+  "keys_unmapped": 0,
   "links_unresolved": 0,
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0
