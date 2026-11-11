@@ -1,7 +1,7 @@
 {
  "format": "dot-bsp-coverage",
  "version": 1,
- "map": "cp-orange-x3",
+ "map": "cp_orange_x3",
  "sha256": "cfe25f37dc9bb8cbc6727d6478e43c422194ba5d8d83e16c90a84389601c9554",
  "textures": {
   "looked_up": 19,
@@ -45,78 +45,44 @@
   "distinct": 22,
   "entities": 197,
   "by_tier": {
-   "default": 19,
-   "fallback": 3
+   "default": 22
   }
  },
  "keys": {
   "catalogue": true,
-  "unmapped": {
-   "team_control_point": [
-    "skin",
-    "team_bodygroup_0",
-    "team_bodygroup_2",
-    "team_bodygroup_3",
-    "team_icon_0",
-    "team_icon_2",
-    "team_icon_3"
-   ],
-   "team_control_point_master": [
-    "MaxAnimTime",
-    "MinAnimTime",
-    "solid"
-   ]
-  }
+  "unmapped": {}
  },
  "links": {
   "total": 15,
-  "unresolved": 4
+  "unresolved": 0
  },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
-  "classes_unmapped": [
-   "func_regenerate",
-   "team_control_point",
-   "team_control_point_master"
-  ],
-  "keys_unmapped": [
-   "team_control_point.skin",
-   "team_control_point.team_bodygroup_0",
-   "team_control_point.team_bodygroup_2",
-   "team_control_point.team_bodygroup_3",
-   "team_control_point.team_icon_0",
-   "team_control_point.team_icon_2",
-   "team_control_point.team_icon_3",
-   "team_control_point_master.MaxAnimTime",
-   "team_control_point_master.MinAnimTime",
-   "team_control_point_master.solid"
-  ],
-  "links_unresolved": [
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": [],
+  "links_dangling": [
    "team_control_point_master.OnWonByTeam1->counter_red_win",
    "team_control_point_master.OnWonByTeam2->counter_blu_win",
    "trigger_capture_area.OnCapTeam1->prop_cap_3",
    "trigger_capture_area.OnCapTeam2->prop_cap_3"
-  ],
-  "inputs_unimplemented": [
-   "env_tonemap_controller.SetAutoExposureMax",
-   "env_tonemap_controller.SetAutoExposureMin",
-   "env_tonemap_controller.SetBloomScale",
-   "prop_dynamic.Skin"
-  ],
-  "surfaces_opaque": []
+  ]
  },
  "counts": {
   "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
-  "classes_unmapped": 3,
-  "keys_unmapped": 10,
-  "links_unresolved": 4,
-  "inputs_unimplemented": 4,
-  "surfaces_opaque": 0
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0,
+  "links_dangling": 4
  }
 }
