@@ -14,6 +14,7 @@ import unittest
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import check_packs  # noqa: E402
+import pack_licence  # noqa: E402
 
 COVERAGE = {"lists": {"textures_unmapped": ["CS_ITALY/ORANGE", "COLOR/GOLDEN YELLOW"], "textures_flat": ["mustafar/blackbarrel"]},
             "textures": {"nearest_photo": ["props/cardboardbox001a"]}}
@@ -104,8 +105,11 @@ class StagePacks(unittest.TestCase):
             os.makedirs(os.path.join(repo, "tools"))
             shutil.copy(os.path.join(HERE, "stage_packs.sh"), os.path.join(repo, "tools"))
             shutil.copy(os.path.join(HERE, "check_packs.py"), os.path.join(repo, "tools"))
-            for rel in ("m1.json", "m1.bin", "m1_lightmap.png", "provides.json", "licence.json"):
+            shutil.copy(os.path.join(HERE, "pack_licence.py"), os.path.join(repo, "tools"))
+            for rel in ("m1.json", "m1.bin", "m1_lightmap.png", "provides.json"):
                 put(os.path.join(repo, "maps", "m1", rel))
+            put(os.path.join(repo, "maps", "m1", "licence.json"), json.dumps([{"paths": ["m1"], "licence": "none stated"}]))
+            put(os.path.join(repo, "licence.json"), json.dumps([{"paths": ["maps/m1"], "licence": "CC-BY-NC-ND-4.0"}]))
             put(os.path.join(repo, "maps", "m1", "textures", "cs_italy_orange.png"))
             put(os.path.join(repo, "maps", "m1", "textures", "sky_up.png.import"))
             put(os.path.join(repo, "worlds", "m1", "m1.json"), "{}")
@@ -126,9 +130,28 @@ class StagePacks(unittest.TestCase):
             self.assertFalse(os.path.exists(os.path.join(out, "m1", "m1_lightmap.png.import")))
             self.assertFalse(os.path.exists(os.path.join(out, "m1", "worlds", "m1", "textures", "fb_Grass004.webp.import")))
             self.assertTrue(os.path.isfile(os.path.join(out, "m1", "worlds", "m1", "textures", "fb_Grass004.webp")))
+            with open(os.path.join(out, "m1", "licence.json")) as f:
+                self.assertEqual(json.load(f)[0]["licence"], "CC-BY-NC-ND-4.0")
             self.assertEqual(check_packs.check_pack(os.path.join(out, "m1"), "m1"), [])
         finally:
             shutil.rmtree(tmp)
+
+
+class PackLicence(unittest.TestCase):
+    ROOT = {"paths": [""], "licence": "MIT", "author": "TMC"}
+    REPO = [{"paths": ["maps/m1"], "licence": "CC-BY-NC-ND-4.0", "exception": "credited-community-map", "title": "M1", "author": "A", "source_url": "https://x/y"}]
+
+    def test_none_stated_is_replaced(self):
+        pack = [self.ROOT, {"paths": ["m1", "textures/"], "licence": "none stated", "author": "unknown", "removal_contact": "r"}]
+        out, found = pack_licence.merge(pack, self.REPO, "m1")
+        self.assertTrue(found)
+        self.assertEqual(out[0], self.ROOT)
+        self.assertEqual((out[1]["licence"], out[1]["author"], out[1]["removal_contact"]), ("CC-BY-NC-ND-4.0", "A", "r"))
+
+    def test_missing_entry_is_added_and_unknown_map_untouched(self):
+        out, found = pack_licence.merge([self.ROOT], self.REPO, "m1")
+        self.assertEqual((found, len(out), out[1]["paths"][0]), (True, 2, "m1"))
+        self.assertEqual(pack_licence.merge([self.ROOT], self.REPO, "zz"), ([self.ROOT], False))
 
 
 if __name__ == "__main__":

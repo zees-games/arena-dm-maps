@@ -17,6 +17,8 @@ for id in "${IDS[@]}"; do
     [ -d "$HERE/worlds/$id" ] || { echo "no world for $id, skipped" >&2; continue; }
     rm -rf "${OUT:?}/$id"; mkdir -p "$OUT/$id/worlds"
     [ -d "$HERE/maps/$id" ] && (cd "$HERE/maps/$id" && tar cf - --exclude=./textures .) | tar xf - -C "$OUT/$id"
+    # The derived licence.json can say "none stated"; the repo's licence.json is the approved credit.
+    python3 -I "$HERE/tools/pack_licence.py" "$OUT/$id" "$id" "$HERE"
     ${DOT_PY:-python3 -I} "$CONVERT/bsp.py" bundle "$HERE/worlds/$id" --out "$OUT/$id/worlds" --strict
     # An `.import` marker names the importing project's .godot cache, absent from a delivered pack: its texture would load null.
     find "$OUT/$id" -name '*.import' -delete
