@@ -1,13 +1,13 @@
 {
  "id": "cp-orange-x3",
- "author": "the original cp_orange_x3 mapper",
+ "author": "unknown (community cp_orange_x3 variant of Orange_X by WhiteWolf_X)",
  "attribution": {
-  "author": "the original cp_orange_x3 mapper",
-  "source": "cp_orange_x3.bsp from the owner's map collection (~/map-src)",
+  "author": "unknown (community cp_orange_x3 variant of Orange_X by WhiteWolf_X)",
+  "source": "https://wiki.teamfortress.com/wiki/Orange_X",
   "archive": "cp_orange_x3.bsp",
   "recorded": "2026-11-07"
  },
- "notes": "Control point map for game-arena: team spawns become red/blue spawns, control points and resupply are kept as markers, flag_spawns place a capture-the-flag layout at each team's last control point. Commercial content used by the owner's decision; NOT published, not on the CDN, content kept out of git.",
+ "notes": "Control point map for game-arena: team spawns become red/blue spawns, control points and resupply are kept as markers, flag_spawns place a capture-the-flag layout at each team's last control point. Textures and models are free replacements; published as a credited community map with a removal offer.",
  "kind": "arena",
  "kind_why": "A control point map played as deathmatch, team deathmatch and capture the flag: built to fight on rather than to time.",
  "movement": "walk",
