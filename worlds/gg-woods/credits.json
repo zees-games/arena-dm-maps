@@ -7,10 +7,10 @@
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_rock_ground_02",
+   "name": "pbr_aerial_ground_rock",
    "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rock_ground_02",
+   "url": "https://polyhaven.com/a/aerial_ground_rock",
    "source": "polyhaven",
    "attribution": false,
    "uses": 43
@@ -46,26 +46,6 @@
    "uses": 5
   },
   {
-   "kind": "texture",
-   "name": "pbr_Tiles106",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles106",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "chest",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/survival-kit",
-   "source": "Kenney Survival Kit",
-   "attribution": false,
-   "uses": 64
-  },
-  {
    "kind": "model",
    "name": "lib/kenney_nature-kit_cliff_topDiagonal_rock",
    "author": "Kenney",
@@ -73,7 +53,27 @@
    "url": "https://kenney.nl/assets/nature-kit",
    "source": "Kenney Nature Kit",
    "attribution": false,
-   "uses": 2
+   "uses": 62
+  },
+  {
+   "kind": "model",
+   "name": "lib/kenney_survival-kit_fish",
+   "author": "Kenney",
+   "licence": "CC0-1.0",
+   "url": "https://kenney.nl/assets/survival-kit",
+   "source": "Kenney Survival Kit",
+   "attribution": false,
+   "uses": 4
+  },
+  {
+   "kind": "model",
+   "name": "lib/own_box_25x30x50_202020",
+   "author": "TMC (generated for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map",
+   "source": "TMC generated model",
+   "attribution": false,
+   "uses": 3
   },
   {
    "kind": "model",

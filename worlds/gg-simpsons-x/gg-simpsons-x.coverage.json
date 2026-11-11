@@ -8,13 +8,11 @@
   "drawn": 100,
   "by_tier": {
    "addon": 3,
-   "default": 26,
-   "fallback": 71
+   "default": 97
   },
   "free_by_tier": {
-   "addon": 38,
-   "default": 16,
-   "nearest": 46
+   "addon": 94,
+   "default": 6
   },
   "nearest_photo": [
    "simpsons/66store",
@@ -26,6 +24,7 @@
    "simpsons/burnsdoor",
    "simpsons/burnsdoorb",
    "simpsons/bus",
+   "simpsons/bushs",
    "simpsons/car",
    "simpsons/car_front",
    "simpsons/cement",
@@ -44,6 +43,7 @@
    "simpsons/flandersdoor2",
    "simpsons/flandersgarage",
    "simpsons/flandersroof",
+   "simpsons/flanderswindow2",
    "simpsons/garage",
    "simpsons/garbage",
    "simpsons/garbagetop",
@@ -88,6 +88,7 @@
    "simpsons/simpsonsmatrix",
    "simpsons/simpsonsmovie",
    "simpsons/simpsonssopranos",
+   "simpsons/smallwindow",
    "simpsons/sodamachine",
    "simpsons/sodaside",
    "simpsons/springfieldbill",
@@ -97,7 +98,14 @@
    "simpsons/tires",
    "simpsons/trailer",
    "simpsons/treebark",
-   "simpsons/wood"
+   "simpsons/window",
+   "simpsons/window1",
+   "simpsons/window2",
+   "simpsons/wood",
+   "simpsons/{99store",
+   "simpsons/{bowlsign",
+   "simpsons/{javaserver",
+   "simpsons/{plexflash"
   ]
  },
  "models": {
@@ -117,108 +125,30 @@
  },
  "keys": {
   "catalogue": true,
-  "unmapped": {
-   "light": [
-    "_ambientHDR"
-   ]
-  }
+  "unmapped": {}
  },
  "links": {
   "total": 10,
   "unresolved": 0
  },
  "lists": {
-  "textures_unmapped": [
-   "SIMPSONS/66STORE",
-   "SIMPSONS/AZTEC",
-   "SIMPSONS/BOWLSIDE",
-   "SIMPSONS/BROWN",
-   "SIMPSONS/BURNS",
-   "SIMPSONS/BUS",
-   "SIMPSONS/CAR",
-   "SIMPSONS/CAR_FRONT",
-   "SIMPSONS/COMICSTORE",
-   "SIMPSONS/COMPUTERSIDE",
-   "SIMPSONS/DOGHOUSE",
-   "SIMPSONS/DONUTS",
-   "SIMPSONS/DUFF",
-   "SIMPSONS/DUFFMACHINE",
-   "SIMPSONS/DUFFMACHINESIDE",
-   "SIMPSONS/FLANDERS",
-   "SIMPSONS/FLANDERSCHIMNEY",
-   "SIMPSONS/FLANDERSGARAGE",
-   "SIMPSONS/GARAGE",
-   "SIMPSONS/GARBAGE",
-   "SIMPSONS/GARBAGETOP",
-   "SIMPSONS/GREYPIPE",
-   "SIMPSONS/HOMER",
-   "SIMPSONS/HOMERCHIMNEY",
-   "SIMPSONS/HOMERGARAGE",
-   "SIMPSONS/KWIKIMART",
-   "SIMPSONS/KWIKIMARTSIDE",
-   "SIMPSONS/KWIKIMARTSIDE2",
-   "SIMPSONS/KWIKIMARTSIGN",
-   "SIMPSONS/KWIKIMARTSIGN2",
-   "SIMPSONS/LIGHT",
-   "SIMPSONS/MAPBYAIR",
-   "SIMPSONS/MOES2",
-   "SIMPSONS/MOESIGN",
-   "SIMPSONS/MOESSIDE",
-   "SIMPSONS/MOESW",
-   "SIMPSONS/NUCWALL",
-   "SIMPSONS/NUKECAN",
-   "SIMPSONS/NUKEHALLS",
-   "SIMPSONS/NUKEOUTSIDE",
-   "SIMPSONS/PIPES",
-   "SIMPSONS/PLEX",
-   "SIMPSONS/PLEXBAND",
-   "SIMPSONS/PLEXBAND2",
-   "SIMPSONS/PLEXBOOTH",
-   "SIMPSONS/PLEXBOTHSIDE",
-   "SIMPSONS/PLEXPOSTER",
-   "SIMPSONS/PLEXPOSTER2",
-   "SIMPSONS/PURPLE",
-   "SIMPSONS/REDBLAZER",
-   "SIMPSONS/RUG",
-   "SIMPSONS/SIMPSONSMATRIX",
-   "SIMPSONS/SIMPSONSMOVIE",
-   "SIMPSONS/SIMPSONSSOPRANOS",
-   "SIMPSONS/SODAMACHINE",
-   "SIMPSONS/SODASIDE",
-   "SIMPSONS/SPRINGFIELDBILL",
-   "SIMPSONS/STREET",
-   "SIMPSONS/THEANDROIDSDUNG",
-   "SIMPSONS/TIRES",
-   "SIMPSONS/TRAILER",
-   "SIMPSONS/TREEBARK",
-   "SIMPSONS/{99STORE",
-   "SIMPSONS/{BOWLPOST",
-   "SIMPSONS/{BOWLSIGN",
-   "SIMPSONS/{BRANCH1",
-   "SIMPSONS/{COMICSTOREAWN",
-   "SIMPSONS/{JAVASERVER",
-   "SIMPSONS/{PLEXFLASH",
-   "SIMPSONS/{SIMPLADDER",
-   "SIMPSONS/{SPACESHIP"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
   "classes_unmapped": [],
-  "keys_unmapped": [
-   "light._ambientHDR"
-  ],
+  "keys_unmapped": [],
   "links_unresolved": [],
   "inputs_unimplemented": [],
   "surfaces_opaque": []
  },
  "counts": {
-  "textures_unmapped": 71,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 1,
+  "keys_unmapped": 0,
   "links_unresolved": 0,
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0

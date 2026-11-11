@@ -27,10 +27,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_grey_stone_path",
+   "name": "pbr_stone_pavers",
    "author": "Amal Kumar",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/grey_stone_path",
+   "url": "https://polyhaven.com/a/stone_pavers",
    "source": "polyhaven",
    "attribution": false,
    "uses": 37
@@ -587,6 +587,26 @@
   },
   {
    "kind": "model",
+   "name": "lib/dm_boxtruck",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/vehicles.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 3
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_lighttroffer",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/building_props.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 19
+  },
+  {
+   "kind": "model",
    "name": "lib/dm_wood_crate_cube",
    "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
@@ -594,26 +614,6 @@
    "source": "dot-map Blender remodel",
    "attribution": false,
    "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_car-kit_garbage-truck",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/car-kit",
-   "source": "Kenney Car Kit",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_food-kit_muffin",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/food-kit",
-   "source": "Kenney Food Kit",
-   "attribution": false,
-   "uses": 2
   },
   {
    "kind": "model",
@@ -653,7 +653,7 @@
    "url": "https://kenney.nl/assets/nature-kit",
    "source": "Kenney Nature Kit",
    "attribution": false,
-   "uses": 43
+   "uses": 45
   },
   {
    "kind": "model",
@@ -664,16 +664,6 @@
    "source": "Kenney Pirate Kit",
    "attribution": false,
    "uses": 4
-  },
-  {
-   "kind": "model",
-   "name": "lib/own_cyl_30x500x30_6a5038",
-   "author": "TMC (generated for dot-map)",
-   "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map",
-   "source": "TMC generated model",
-   "attribution": false,
-   "uses": 6
   },
   {
    "kind": "model",
@@ -697,6 +687,16 @@
   },
   {
    "kind": "model",
+   "name": "lib/ph_bleach_bottle",
+   "author": "James Ray Cock",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/bleach_bottle",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 8
+  },
+  {
+   "kind": "model",
    "name": "lib/ph_cardboard_box_01",
    "author": "Rahul Chaudhary",
    "licence": "CC0-1.0",
@@ -707,16 +707,6 @@
   },
   {
    "kind": "model",
-   "name": "lib/ph_covered_car",
-   "author": "MP",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/covered_car",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 2
-  },
-  {
-   "kind": "model",
    "name": "lib/ph_korean_fire_extinguisher_01",
    "author": "UM JOORIN",
    "licence": "CC0-1.0",
@@ -724,16 +714,6 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_leather_cleaner_can",
-   "author": "James Ray Cock",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/leather_cleaner_can",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 8
   },
   {
    "kind": "model",
@@ -763,7 +743,7 @@
    "url": "https://polyhaven.com/a/modular_airduct_circular_01",
    "source": "Poly Haven",
    "attribution": false,
-   "uses": 2
+   "uses": 1
   },
   {
    "kind": "model",
@@ -813,7 +793,7 @@
    "url": "https://polyhaven.com/a/propane_tank",
    "source": "Poly Haven",
    "attribution": false,
-   "uses": 7
+   "uses": 2
   },
   {
    "kind": "model",
@@ -927,6 +907,16 @@
   },
   {
    "kind": "model",
+   "name": "lib/sf_old_radiator_8a1a2e",
+   "author": "thethieme",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-8a1a2e0263aa401591c1e87d824a79ef",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 5
+  },
+  {
+   "kind": "model",
    "name": "lib/sf_pine_tree_d45218",
    "author": "evolveduk",
    "licence": "CC-BY-4.0",
@@ -956,14 +946,14 @@
    "uses": 3
   },
   {
-   "kind": "model",
-   "name": "lib/sf_weathered_fluorescent_light_lamp_07c280",
-   "author": "Mark Peters",
-   "licence": "CC-BY-4.0",
-   "url": "https://sketchfab.com/3d-models/none-07c2805b50b6476f8e0ad467fae00b82",
-   "source": "Sketchfab",
-   "attribution": true,
-   "uses": 12
+   "kind": "sound",
+   "name": "door_open",
+   "author": "Kenney",
+   "licence": "CC0-1.0",
+   "url": "https://kenney.nl/assets/sci-fi-sounds",
+   "source": "Kenney Sci-Fi Sounds",
+   "attribution": false,
+   "uses": 1
   }
  ]
 }

@@ -8,17 +8,14 @@
   "drawn": 8,
   "by_tier": {
    "addon": 2,
-   "default": 4,
-   "fallback": 1
+   "default": 5
   },
   "free_by_tier": {
-   "addon": 4,
-   "default": 2,
-   "nearest": 2
+   "addon": 5,
+   "default": 3
   },
   "nearest_photo": [
    "fy_woods/blendmildg",
-   "models/props/cs_militia/river01",
    "nature/blendmilground005_2",
    "nature/blendmilground008_2_plants"
   ]
@@ -26,9 +23,8 @@
  "models": {
   "looked_up": 17,
   "by_tier": {
-   "category": 5,
+   "category": 8,
    "default": 8,
-   "fallback": 3,
    "skybox": 1
   }
  },
@@ -47,37 +43,19 @@
  },
  "keys": {
   "catalogue": true,
-  "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
-   ]
-  }
+  "unmapped": {}
  },
  "links": {
   "total": 25,
   "unresolved": 0
  },
  "lists": {
-  "textures_unmapped": [
-   "MODELS/PROPS/CS_MILITIA/RIVER01"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
-  "models_unmapped": [
-   "_outdoor/pflanzen/busch01.mdl",
-   "_outdoor/pflanzen/busch02.mdl",
-   "crow.mdl"
-  ],
+  "models_unmapped": [],
   "sounds_unmapped": [],
   "classes_unmapped": [],
-  "keys_unmapped": [
-   "ambient_generic.pitch",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration"
-  ],
+  "keys_unmapped": [],
   "links_unresolved": [],
   "inputs_unimplemented": [
    "env_tonemap_controller.SetAutoExposureMax",
@@ -85,19 +63,17 @@
    "env_tonemap_controller.SetBloomScale",
    "prop_dynamic.SetAnimation"
   ],
-  "surfaces_opaque": [
-   "models/props/cs_militia/river01"
-  ]
+  "surfaces_opaque": []
  },
  "counts": {
-  "textures_unmapped": 1,
+  "textures_unmapped": 0,
   "textures_flat": 0,
-  "models_unmapped": 3,
+  "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 3,
+  "keys_unmapped": 0,
   "links_unresolved": 0,
   "inputs_unimplemented": 4,
-  "surfaces_opaque": 1
+  "surfaces_opaque": 0
  }
 }

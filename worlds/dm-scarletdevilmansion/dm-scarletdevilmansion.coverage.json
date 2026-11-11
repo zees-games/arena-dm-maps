@@ -4,17 +4,15 @@
  "map": "dm-scarletdevilmansion",
  "sha256": "22182789a1e92fdebd20dc0a7367a06e096548eb84053daa2892f6e36c3a79f9",
  "textures": {
-  "looked_up": 108,
-  "drawn": 101,
+  "looked_up": 107,
+  "drawn": 102,
   "by_tier": {
    "addon": 5,
-   "default": 65,
-   "fallback": 38
+   "default": 102
   },
   "free_by_tier": {
-   "addon": 47,
-   "default": 13,
-   "nearest": 41
+   "addon": 88,
+   "default": 14
   },
   "nearest_photo": [
    "brick/brickwall003",
@@ -23,12 +21,10 @@
    "concrete/computerwall003a",
    "concrete/concretewall014",
    "concrete/floor_carpet002",
-   "concrete/stripe_blue",
    "cp_manor/plaster_white01",
    "cp_manor/wood_beam03b_burnt",
    "egypt/bumpy_wall_01",
    "egypt/stone_floor_01",
-   "engine/preloadtexture",
    "metal/ibeam001b",
    "metal/metaldoor011a",
    "metal/steeldoor001",
@@ -104,146 +100,38 @@
  "models": {
   "looked_up": 81,
   "by_tier": {
-   "category": 6,
-   "default": 48,
-   "fallback": 27
+   "category": 33,
+   "default": 48
   }
  },
  "sounds": {
   "looked_up": 21,
   "by_tier": {
-   "default": 8,
-   "fallback": 13
+   "default": 21
   }
  },
  "classes": {
   "distinct": 54,
   "entities": 1616,
   "by_tier": {
-   "default": 53,
-   "fallback": 1
+   "default": 54
   }
  },
  "keys": {
   "catalogue": true,
-  "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
-   "info_player_terrorist": [
-    "StartDisabled",
-    "TeamNum"
-   ],
-   "item_healthkit_small": [
-    "powerup_model"
-   ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
-   ]
-  }
+  "unmapped": {}
  },
  "links": {
   "total": 199,
   "unresolved": 0
  },
  "lists": {
-  "textures_unmapped": [
-   "EGYPT/BUMPY_WALL_01",
-   "ENGINE/PRELOADTEXTURE",
-   "SDM/BATIMENTS/CLOCK",
-   "SDM/BATIMENTS/CLOCKINSIDE",
-   "SDM/BATIMENTS/REDWALL",
-   "SDM/DARKLEAVES",
-   "SDM/MANSION_INSIDE/BOOK",
-   "SDM/MANSION_INSIDE/CHESS",
-   "SDM/MANSION_INSIDE/ILLUSION5",
-   "SDM/MANSION_INSIDE/ILLUSION6",
-   "SDM/MANSION_INSIDE/INU",
-   "SDM/MANSION_INSIDE/OLD_REDSIGN",
-   "SDM/MANSION_INSIDE/REMILIA",
-   "SDM/MANSION_INSIDE/REMILIA2",
-   "SDM/MANSION_INSIDE/REMILIA3",
-   "SDM/MANSION_INSIDE/REMILIA4",
-   "SDM/MANSION_INSIDE/REMILIA5",
-   "SDM/MANSION_INSIDE/REMIRYA",
-   "SDM/MANSION_INSIDE/WALL4",
-   "SDM/MEMENTO/1",
-   "SDM/MEMENTO/10",
-   "SDM/MEMENTO/11",
-   "SDM/MEMENTO/12",
-   "SDM/MEMENTO/13",
-   "SDM/MEMENTO/14",
-   "SDM/MEMENTO/15",
-   "SDM/MEMENTO/16",
-   "SDM/MEMENTO/2",
-   "SDM/MEMENTO/3",
-   "SDM/MEMENTO/4",
-   "SDM/MEMENTO/5",
-   "SDM/MEMENTO/6",
-   "SDM/MEMENTO/7",
-   "SDM/MEMENTO/8",
-   "SDM/MEMENTO/9",
-   "SDM/MEMENTO/TY",
-   "SDM/MISSING/PANCARTE",
-   "SDM/OKUU_FINAL"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
-  "models_unmapped": [
-   "error.mdl",
-   "props_2fort/groundlight002.mdl",
-   "props_2fort/groundlight003.mdl",
-   "props_2fort/weathervane001.mdl",
-   "props_farm/wood_framing001b.mdl",
-   "props_forest/wood_patch1.mdl",
-   "props_forest/wood_patch4.mdl",
-   "props_forest/wood_platform3.mdl",
-   "props_halloween/smlprop_bat.mdl",
-   "props_manor/baby_grand_01.mdl",
-   "props_manor/candelabra_01.mdl",
-   "props_manor/curtains_01.mdl",
-   "props_manor/curtains_02.mdl",
-   "props_manor/wall_candelabra_01.mdl",
-   "props_manor/wall_candelabra_02.mdl",
-   "props_mining/wooden_barrier01.mdl",
-   "sdm/a.mdl",
-   "sdm/clo.mdl",
-   "sdm/vuvuzelablue.mdl",
-   "sdm/vuvuzelared.mdl",
-   "sdm/vuvuzelayellow.mdl",
-   "sdm/win.mdl",
-   "sdm/win2.mdl",
-   "sdm/win3.mdl",
-   "sdm/win4.mdl",
-   "sdm/win5.mdl",
-   "sdm/win7.mdl"
-  ],
-  "sounds_unmapped": [
-   "ambient/thunder2.wav",
-   "ambient/thunder4.wav",
-   "misc/achievement_earned.wav",
-   "misc/happy_birthday.wav",
-   "sdm/clock2.wav",
-   "sdm/critical.wav",
-   "sdm/headshot.wav",
-   "sdm/kaboum.wav",
-   "sdm/okuu.wav",
-   "sdm/sounanoka.wav",
-   "sdm/uuu.wav",
-   "sdm/vuvuzela.wav",
-   "sdm/zawarudo.wav"
-  ],
-  "classes_unmapped": [
-   "info_observer_point"
-  ],
-  "keys_unmapped": [
-   "ambient_generic.pitch",
-   "info_player_terrorist.StartDisabled",
-   "info_player_terrorist.TeamNum",
-   "item_healthkit_small.powerup_model",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration"
-  ],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
   "links_unresolved": [],
   "inputs_unimplemented": [
    "func_door.SetParent",
@@ -253,20 +141,17 @@
    "point_clientcommand.Command",
    "prop_dynamic.SetParent"
   ],
-  "surfaces_opaque": [
-   "concrete/stripe_blue",
-   "sdm/mansion_inside/remirya"
-  ]
+  "surfaces_opaque": []
  },
  "counts": {
-  "textures_unmapped": 38,
+  "textures_unmapped": 0,
   "textures_flat": 0,
-  "models_unmapped": 27,
-  "sounds_unmapped": 13,
-  "classes_unmapped": 1,
-  "keys_unmapped": 6,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
   "links_unresolved": 0,
   "inputs_unimplemented": 6,
-  "surfaces_opaque": 2
+  "surfaces_opaque": 0
  }
 }

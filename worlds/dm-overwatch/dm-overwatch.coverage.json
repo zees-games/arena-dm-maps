@@ -11,9 +11,8 @@
    "default": 30
   },
   "free_by_tier": {
-   "addon": 75,
-   "default": 1,
-   "nearest": 1
+   "addon": 76,
+   "default": 1
   },
   "nearest_photo": [
    "building_template/building_template002d",
@@ -57,7 +56,7 @@
  "sounds": {
   "looked_up": 1,
   "by_tier": {
-   "fallback": 1
+   "default": 1
   }
  },
  "classes": {
@@ -69,76 +68,38 @@
  },
  "keys": {
   "catalogue": true,
-  "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
-   "prop_physics": [
-    "RespawnTime"
-   ],
-   "shadow_control": [
-    "direction"
-   ],
-   "worldspawn": [
-    "MaxRange",
-    "defaultteam",
-    "fogblend",
-    "fogcolor",
-    "fogcolor2",
-    "fogdir",
-    "fogenable",
-    "fogend",
-    "fogstart",
-    "light",
-    "sounds"
-   ]
-  }
+  "unmapped": {}
  },
  "links": {
   "total": 4,
-  "unresolved": 1
+  "unresolved": 0
  },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
-  "sounds_unmapped": [
-   "e3_c17_02.gategrindsdown2"
-  ],
+  "sounds_unmapped": [],
   "classes_unmapped": [],
-  "keys_unmapped": [
-   "ambient_generic.pitch",
-   "prop_physics.RespawnTime",
-   "shadow_control.direction",
-   "worldspawn.MaxRange",
-   "worldspawn.defaultteam",
-   "worldspawn.fogblend",
-   "worldspawn.fogcolor",
-   "worldspawn.fogcolor2",
-   "worldspawn.fogdir",
-   "worldspawn.fogenable",
-   "worldspawn.fogend",
-   "worldspawn.fogstart",
-   "worldspawn.light",
-   "worldspawn.sounds"
-  ],
-  "links_unresolved": [
-   "prop_physics.OnBreak->crate_10_grenade_maker"
-  ],
+  "keys_unmapped": [],
+  "links_unresolved": [],
   "inputs_unimplemented": [
    "phys_ballsocket.Break"
   ],
-  "surfaces_opaque": []
+  "surfaces_opaque": [],
+  "links_dangling": [
+   "prop_physics.OnBreak->crate_10_grenade_maker"
+  ]
  },
  "counts": {
   "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
-  "sounds_unmapped": 1,
+  "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 14,
-  "links_unresolved": 1,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
   "inputs_unimplemented": 1,
-  "surfaces_opaque": 0
+  "surfaces_opaque": 0,
+  "links_dangling": 1
  }
 }
