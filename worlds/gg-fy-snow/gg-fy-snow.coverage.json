@@ -7,16 +7,14 @@
   "looked_up": 4,
   "drawn": 3,
   "by_tier": {
-   "addon": 1,
-   "default": 2,
-   "fallback": 1
+   "addon": 2,
+   "default": 2
   },
   "free_by_tier": {
    "addon": 3
   },
   "nearest_photo": [
-   "cs_italy/boxsides_t01",
-   "ground/blendsnow_asphault"
+   "cs_italy/boxsides_t01"
   ]
  },
  "models": {
@@ -43,9 +41,7 @@
   "unresolved": 0
  },
  "lists": {
-  "textures_unmapped": [
-   "BESTBUY/APPLIANCESIGN"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -56,7 +52,7 @@
   "surfaces_opaque": []
  },
  "counts": {
-  "textures_unmapped": 1,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
