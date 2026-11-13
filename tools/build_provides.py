@@ -11,7 +11,7 @@ import os
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-GAMES = ["gamemann/game-arena"]
+GAMES = ["gamemann/game-fatal-contact"]  # the prod game id; game-arena is its retired name
 SKIP = set()  # maps no accepted map_kind describes
 
 
