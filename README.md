@@ -4,7 +4,7 @@ Deathmatch and gun game maps Zee's Fatal Contact ([game-fatal-contact](https://g
 
 Every map here is somebody else's work, imported so it can be played again, and credited in `maps.json`, below and on screen whenever a server changes to it. If you made one of these maps and want it credited differently or taken down, open an issue and it will be done.
 
-Each map is its own signed pack, `gamemann/<map id>`, released by tagging this repository (see `.github/workflows/release.yml`). `maps/` is linked at game-fatal-contact's `maps/imported_dm` (a `# bootstrap-link:` line in its `.gitignore`), beside the surf maps; `headless_dm_maps` checks them.
+Each map is its own signed pack, `gamemann/<map id>`, listed under this repository's one Workshop page (no map has a page of its own), released by tagging this repository (see `.github/workflows/release.yml`). `maps/` is linked at game-fatal-contact's `maps/imported_dm` (a `# bootstrap-link:` line in its `.gitignore`), beside the surf maps; `headless_dm_maps` checks them.
 
 ## Credits
 
