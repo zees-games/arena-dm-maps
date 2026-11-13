@@ -7,8 +7,8 @@
   "looked_up": 19,
   "drawn": 19,
   "by_tier": {
-   "addon": 5,
-   "default": 14
+   "addon": 10,
+   "default": 9
   },
   "free_by_tier": {
    "addon": 19
@@ -16,17 +16,12 @@
   "nearest_photo": [
    "brick/brickwall002",
    "brick/brickwall003",
-   "concrete/computerwall003",
-   "concrete/computerwall003d",
-   "concrete/computerwall005d",
-   "concrete/computerwall006",
    "concrete/concretefloor005",
    "concrete/concretefloor007b",
    "concrete/concretewall002d",
    "concrete/concretewall002e",
    "concrete/concretewall004",
    "concrete/concretewall005",
-   "models/props_badlands/buildings_redwood_walls01",
    "nature/snowfloor003a"
   ]
  },
