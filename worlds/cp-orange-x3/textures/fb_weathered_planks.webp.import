@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://12pte8ehka08"
-path="res://.godot/imported/fb_Concrete011.webp-511d1682366f5e6e55b7bd3323b413dd.ctex"
+uid="uid://thr4mkiujghc"
+path="res://.godot/imported/fb_weathered_planks.webp-3fc28587fa70047d846c2689e98d3b36.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://worlds_dm/cp-orange-x3/textures/fb_Concrete011.webp"
-dest_files=["res://.godot/imported/fb_Concrete011.webp-511d1682366f5e6e55b7bd3323b413dd.ctex"]
+source_file="res://worlds_dm/cp-orange-x3/textures/fb_weathered_planks.webp"
+dest_files=["res://.godot/imported/fb_weathered_planks.webp-3fc28587fa70047d846c2689e98d3b36.ctex"]
 
 [params]
 

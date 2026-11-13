@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cn5t3qrkemxrw"
-path="res://.godot/imported/fb_grass_concrete_pavement.webp-cb221094da42ca2c58ff90250c4e3b84.ctex"
+uid="uid://dn177e3fjtah3"
+path="res://.godot/imported/fb_Concrete009.webp-510b4f5a2509cb091d5a8e4c53ea26e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://worlds_dm/cp-orange-x3/textures/fb_grass_concrete_pavement.webp"
-dest_files=["res://.godot/imported/fb_grass_concrete_pavement.webp-cb221094da42ca2c58ff90250c4e3b84.ctex"]
+source_file="res://worlds_dm/cp-orange-x3/textures/fb_Concrete009.webp"
+dest_files=["res://.godot/imported/fb_Concrete009.webp-510b4f5a2509cb091d5a8e4c53ea26e1.ctex"]
 
 [params]
 

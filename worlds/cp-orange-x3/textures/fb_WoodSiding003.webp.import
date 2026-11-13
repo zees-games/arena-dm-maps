@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://e1agaw7vkbxm"
-path="res://.godot/imported/fb_worn_plaster_wall.webp-d2539c276975aaa3cd0c95379f96e87b.ctex"
+uid="uid://vtg010jorwas"
+path="res://.godot/imported/fb_WoodSiding003.webp-d7502601e0f13dba0c691c434ed4ce8c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://worlds_dm/cp-orange-x3/textures/fb_worn_plaster_wall.webp"
-dest_files=["res://.godot/imported/fb_worn_plaster_wall.webp-d2539c276975aaa3cd0c95379f96e87b.ctex"]
+source_file="res://worlds_dm/cp-orange-x3/textures/fb_WoodSiding003.webp"
+dest_files=["res://.godot/imported/fb_WoodSiding003.webp-d7502601e0f13dba0c691c434ed4ce8c.ctex"]
 
 [params]
 

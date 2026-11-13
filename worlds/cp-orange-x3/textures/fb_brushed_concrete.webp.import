@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c5jwrudbpqmb0"
-path="res://.godot/imported/fb_stone_embedded_concrete.webp-c065fa1d3427c36e03f6064a0de0d78b.ctex"
+uid="uid://bwqssmsw4tvgc"
+path="res://.godot/imported/fb_brushed_concrete.webp-25b87ea1e0169096ae441950ca88142f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://worlds_dm/cp-orange-x3/textures/fb_stone_embedded_concrete.webp"
-dest_files=["res://.godot/imported/fb_stone_embedded_concrete.webp-c065fa1d3427c36e03f6064a0de0d78b.ctex"]
+source_file="res://worlds_dm/cp-orange-x3/textures/fb_brushed_concrete.webp"
+dest_files=["res://.godot/imported/fb_brushed_concrete.webp-25b87ea1e0169096ae441950ca88142f.ctex"]
 
 [params]
 

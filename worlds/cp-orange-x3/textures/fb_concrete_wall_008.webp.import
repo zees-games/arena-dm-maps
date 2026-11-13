@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://byiquqvjnrsyt"
-path="res://.godot/imported/fb_Concrete036.webp-becd048554c215f1ffffac469b530d3e.ctex"
+uid="uid://7a2ws08jimug"
+path="res://.godot/imported/fb_concrete_wall_008.webp-e286e4b3a96cd9938179e8dbf88e414b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://worlds_dm/cp-orange-x3/textures/fb_Concrete036.webp"
-dest_files=["res://.godot/imported/fb_Concrete036.webp-becd048554c215f1ffffac469b530d3e.ctex"]
+source_file="res://worlds_dm/cp-orange-x3/textures/fb_concrete_wall_008.webp"
+dest_files=["res://.godot/imported/fb_concrete_wall_008.webp-e286e4b3a96cd9938179e8dbf88e414b.ctex"]
 
 [params]
 
